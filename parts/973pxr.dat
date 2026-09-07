@@ -1,0 +1,14 @@
+0 Minifig Torso with Magenta Vertical Stripe and Light Bluish Grey Belt Pattern
+0 Name: 973pxr.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Beast, Bricklink 973pb2839, Set 71255
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 15 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pxrs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973pxrs01.dat

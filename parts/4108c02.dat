@@ -1,0 +1,15 @@
+0 ~Axle with Two Wheels 10 x  3 (Complete)
+0 Name: 4108c02.dat
+0 Author:  [BLStudio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS Fabuland, handcart, pram, pushchair, skateboard, stroller, trolley
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 4108.dat
+1 16 37.5 0 0 0 0 -1 0 1 0 1 0 0 4075.dat
+1 16 -37.5 0 0 0 0 1 0 1 0 -1 0 0 4075.dat
+

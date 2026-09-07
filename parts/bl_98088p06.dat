@@ -1,0 +1,15 @@
+0 Animal Wing Left Pteranodon with Marbled Sand Blue Edge Pattern
+0 Name: bl_98088p06.dat
+0 Author: Henry Park
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Dinosaur
+
+0 !HISTORY 2024-01-10 Copy 98088p04.dat and update the color to Sand Blue.
+
+
+1 16 0 0 0 0.98902 0.14781 0 -0.14781 0.98902 0 0 0 1 s\98088s01.dat
+1 379 0 0 0 0.98902 0.14781 0 -0.14781 0.98902 0 0 0 1 s\98088s02.dat
+0 !TEXMAP END

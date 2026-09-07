@@ -1,0 +1,31 @@
+0 ~Wheel Rim 20 x 30 with 3 Pegholes - Rim Beads
+0 Name: s\44292s01.dat
+0 Author: Marc Klein [marckl]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2012-08-09 [PTadmin] Official Update 2012-02
+0 !HISTORY 2025-03-12 [Blechtaler] complete rework
+
+1 16 0 0 -15 38 0 0 0 0 38 0 4 0 48\4-4cylo.dat
+1 16 0 0 -21 34 0 0 0 0 34 0 6 0 48\4-4cylo.dat
+1 16 0 0 -25 38 0 0 0 0 38 0 4 0 48\4-4cylo.dat
+1 16 0 0 15 38 0 0 0 0 38 0 -4 0 48\4-4cylo.dat
+1 16 0 0 21 34 0 0 0 0 34 0 -6 0 48\4-4cylo.dat
+1 16 0 0 25 38 0 0 0 0 38 0 -4 0 48\4-4cylo.dat
+1 16 0 0 -21 2 0 0 0 0 2 0 -1 0 48\4-4ring17.dat
+1 16 0 0 -21 2 0 0 0 0 2 0 -1 0 48\4-4ring18.dat
+1 16 0 0 -15 2 0 0 0 0 2 0 1 0 48\4-4ring17.dat
+1 16 0 0 -15 2 0 0 0 0 2 0 1 0 48\4-4ring18.dat
+1 16 0 0 -11 2 0 0 0 0 2 0 -1 0 48\4-4ring17.dat
+1 16 0 0 -11 2 0 0 0 0 2 0 -1 0 48\4-4ring18.dat
+1 16 0 0 11 2 0 0 0 0 2 0 1 0 48\4-4ring17.dat
+1 16 0 0 11 2 0 0 0 0 2 0 1 0 48\4-4ring18.dat
+1 16 0 0 15 2 0 0 0 0 2 0 -1 0 48\4-4ring17.dat
+1 16 0 0 15 2 0 0 0 0 2 0 -1 0 48\4-4ring18.dat
+1 16 0 0 21 2 0 0 0 0 2 0 1 0 48\4-4ring17.dat
+1 16 0 0 21 2 0 0 0 0 2 0 1 0 48\4-4ring18.dat
+1 16 0 0 11 34 0 0 0 0 34 0 1 0 48\4-4edge.dat
+1 16 0 0 -11 34 0 0 0 0 34 0 1 0 48\4-4edge.dat

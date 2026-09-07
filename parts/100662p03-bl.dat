@@ -1,0 +1,16 @@
+0 Minifig Baby Head with Blue Space Helmet and Air Tanks and Face with Black Eyes and Grin Pattern
+0 Name: 100662p03-bl.dat
+0 Author: 
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 100662pb02, Rebrickable 100662pat0001pr0002, set 40712
+
+1 15 0 0 0 1 0 0 0 1 0 0 0 1 s\100662s01.dat
+1 15 0 0 0 -1 0 0 0 1 0 0 0 1 s\100662s01.dat
+1 15 0 -8.4 15.4 0 0 1.5 0 1 0 1.5 0 0 bump5000.dat
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\100662p02s02.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\100662p02s02.dat

@@ -1,0 +1,13 @@
+0 Brick, Modified 2 x 4 with Red Wheels FreeStyle and Red Pins (4180 / 4259 / 2344)
+0 Name: bl_4180c02.dat
+0 Author: 
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 bl_4180.dat
+1 4 50 10 0 0 0 -1 0 1 0 1 0 0 2344.dat
+1 4 -50 10 0 0 0 1 0 1 0 -1 0 0 2344.dat
+1 4 50 10 0 0 0 -1 0 1 0 1 0 0 4259.dat
+1 4 -50 10 0 0 0 1 0 1 0 -1 0 0 4259.dat

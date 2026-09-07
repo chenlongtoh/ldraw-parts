@@ -1,0 +1,20 @@
+0 Minifig Hips and Legs with White Stars, Blue Leotard and Light Nougat Legs Pattern
+0 Name: 73200bp03.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bp3j.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !KEYWORDS Bricklink 970c05pb06, Brickowl 958974, Rebrickable 970c22pr0296
+0 !KEYWORDS Set 6862, Set 71209, wonder woman
+
+0 !HISTORY 2024-09-01 [BLStudio] Adapted to BL Known Colors
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bp03.dat
+1 4 0 12 0 1 0 0 0 1 0 0 0 1 3816cp03.dat
+1 4 0 12 0 1 0 0 0 1 0 0 0 1 3817cp03.dat

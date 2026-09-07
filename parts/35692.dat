@@ -1,0 +1,17 @@
+0 Minifig Balloon Dog
+0 Name: 35692.dat
+0 Author: Florent Faramond [Makou]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Accessory
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\35692s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\35692s01.dat
+
+1 16 0 0 -5.68 0 0 4 4 0 0 0 11.36 0 4-4cyli.dat
+1 16 0 -10.35 -30 0 0 3.5 3.5 0 0 0 1 0 4-4cylc3.dat
+1 16 0 -10.35 -30 0 0 3.5 3.5 0 0 0 1 0 4-4edge.dat
+1 16 0 -15.764 17.563 0 0 2 -1 4.3301 0 -1.7321 -2.5 0 4-4cylc.dat

@@ -1,0 +1,10 @@
+0 Brick  2 x  4 x  5 with Hole for Worm Screw  6L, Runners for Channels and Elevator Platform
+0 Name: 3863.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3863s01.dat
+4 16 -40 104 -20 40 104 -20 40 0 -20 -40 0 -20

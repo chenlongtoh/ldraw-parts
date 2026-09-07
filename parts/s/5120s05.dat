@@ -1,0 +1,13 @@
+0 ~Slope 45° 6 x 8 Double with 4 x 8 Cutout - Full Bottom Understud
+0 Name: s\5120s05.dat
+0 Author: Attila Tamas Zimler [atzimler]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-01-05 {LEGO Instructions App} Original part shape
+0 !HISTORY 2024-01-05 [atzimler] File preparation for LDraw Parts Tracker
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\5120s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\5120s02.dat
