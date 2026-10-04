@@ -6,8 +6,6 @@
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2016-01-01 [arezey] Recreated to have 4 decimals of precision
-
 2 24 5.602 -0.6667 2 5.602 0 2
 2 24 2 -0.6667 2 2 0 2
 2 24 2 -0.9668 5.602 2 0 5.602

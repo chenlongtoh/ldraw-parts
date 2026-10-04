@@ -1,4 +1,4 @@
-0 ~Cloth  4.3 x 30.7 with 10 Rectangular Holes - Curve 2
+0 Curve 2 for cloth 94318
 0 Name: s\94318s04.dat
 0 Author: Frank Engel [lostcontinent]
 0 !LDRAW_ORG Unofficial_Subpart 
@@ -9,7 +9,6 @@
 0 !HISTORY 2015-01-30 [lostcontinent] BFC compliant
 
 0 // outer wall
-
 2 24 0 0 -6 1 0 -6
 2 24 0 86 -6 1 86 -6
 4 16 0 0 -6 1 0 -6 1 86 -6 0 86 -6

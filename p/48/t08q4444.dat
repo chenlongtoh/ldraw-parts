@@ -5,6 +5,7 @@
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+0 !HISTORY 2013-11-13 [MagFors] Recreated to fix condlines
 
 0 // Major Radius: 9
 0 // Tube(Minor) Radius: 4

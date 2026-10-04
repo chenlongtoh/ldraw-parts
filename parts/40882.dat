@@ -1,7 +1,7 @@
-0 ~Animal Dinosaur Legs Short, Centre (Needs Work)
+0 ~Animal Dinosaur Legs Short, Center (Needs Work)
 0 Name: 40882.dat
 0 Author: Andy Westrate [westrate]
-0 !LDRAW_ORG Unofficial_Part 
+0 !LDRAW_ORG Part UPDATE 2011-02
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -9,9 +9,9 @@
 0 !HISTORY 2010-09-10 {LEGO Universe Team} Original part shape
 0 !HISTORY 2010-10-07 [westrate] File preparation for LDraw Parts Tracker
 0 !HISTORY 2011-12-29 [PTadmin] Official Update 2011-02
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 
 0 // Piece is part of an assembly; only visible surfaces have been rendered.
+
 
 3 16 39.79 24.18 2.71 39.79 25.46 0 39.79 24.18 -2.71
 3 16 28.5 35.45 15.05 35.75 32.07 11.2 40.3 24.95 20.52
@@ -363,8 +363,7 @@
 4 16 4.57 53.2 -12.73 -4.52 53.2 -12.73 -4.42 53.72 -12.26 4.49 53.72 -12.26
 4 16 4.58 53.15 -13.23 -4.53 53.15 -13.23 -4.52 53.2 -12.73 4.57 53.2 -12.73
 4 16 4.95 51.69 -14 -4.75 51.69 -14 -4.53 53.15 -13.23 4.58 53.15 -13.23
-3 16 4.81 51.89 3.88 4.95 51.69 -14 4.57 53.2 -12.73
-3 16 4.81 51.89 3.88 4.57 53.2 -12.73 4.58 53.13 2.79
+4 16 4.81 51.89 3.88 4.95 51.69 -14 4.57 53.2 -12.73 4.58 53.13 2.79
 4 16 4.58 53.13 2.79 4.57 53.2 -12.73 4.49 53.72 -12.26 4.5 53.66 2.29
 3 16 3.73 57.66 -0.23 4.16 55.07 -11.78 3.75 57.66 -9.77
 4 16 3.58 58.49 -1.48 3.73 57.66 -0.23 3.75 57.66 -9.77 3.58 58.49 -8.51

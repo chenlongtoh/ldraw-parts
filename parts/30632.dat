@@ -6,6 +6,9 @@
 
 0 BFC CERTIFY CCW
 
+0 !HISTORY 2012-08-31 [KROACH] Made BFC compliant
+0 !HISTORY 2012-09-05 [KROACH] Corrected comments
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30632s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 -1 s\30632s01.dat
 1 16 8.25 -32 0 1 0 0 0 1 0 0 0 1 s\30632s02.dat

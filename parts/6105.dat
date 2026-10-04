@@ -1,14 +1,13 @@
 0 Door  1 x  4 x  8 with 1/4 Circle Top
 0 Name: 6105.dat
 0 Author: Adam Howard [Whist]
-0 !LDRAW_ORG Unofficial_Part 
+0 !LDRAW_ORG Part UPDATE 1999-06
 0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HISTORY 1999-12-31 [PTadmin] Official Update 1999-06
 0 !HISTORY 2007-10-26 [PTadmin] Replaced box3#8p references with box3u8p
 0 !HISTORY 2007-10-26 [PTadmin] Header formatted for Contributor Agreement
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
-0 !HISTORY 2014-11-21 [roland] Auto-corrected with libfix version of LDCad 1.4
 
 0 // (CW Quads)
 
@@ -1252,10 +1251,8 @@
 4 16 -1.5 -85.2328 58 -1.5 -84.7894 56 -1.5 -47.875 56 -1.5 -47.875 58
 4 16 -1.5 -42.125 58 -1.5 -42.125 56 -1.5 -1.875 56 -1.5 -1.875 58
 4 16 -1.5 3.875 58 -1.5 3.875 56 -1.5 10.3978 56 -1.5 10.3978 58
-3 16 -1.5 10.4567 57.7039 -1.5 10.3978 58 -1.5 10.3978 56
-3 16 -1.5 10.4567 57.7039 -1.5 10.3978 56 -1.5 11.5952 56
-3 16 -1.5 21.5433 57.7039 -1.5 20.4048 56 -1.5 21.6022 56
-3 16 -1.5 21.5433 57.7039 -1.5 21.6022 56 -1.5 21.6022 58
+4 16 -1.5 10.4567 57.7039 -1.5 10.3978 58 -1.5 10.3978 56 -1.5 11.5952 56
+4 16 -1.5 21.5433 57.7039 -1.5 20.4048 56 -1.5 21.6022 56 -1.5 21.6022 58
 4 16 -1.5 21.6022 58 -1.5 21.6022 56 -1.5 44.125 56 -1.5 44.125 58
 4 16 -1.5 49.875 58 -1.5 49.875 56 -1.5 85.25 56 -1.5 85.25 58
 4 16 -2 91 63.75 -2 91 69.5 -2 20.5718 69.5 -2 20.5718 63.75
