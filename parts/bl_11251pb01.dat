@@ -1,0 +1,13 @@
+0 Minifigure, Utensil Plunger with Molded Flexible Rubber Red Cup Pattern
+0 Name: bl_11251pb01.dat
+0 Author:  [BLStudio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 324 0 0 0 1 0 0 0 1 0 0 0 1 s\11459s01.dat
+
+1 16 0 0 0 4 0 0 0 -42 0 0 0 -4 4-4cyli.dat
+1 16 0 0 0 4 0 0 0 -1 0 0 0 -4 4-4edge.dat
+1 16 0 -42 0 -4 0 0 0 -2 0 0 0 -4 4-8sphe.dat

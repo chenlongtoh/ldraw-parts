@@ -1,15 +1,12 @@
 0 Door  1 x  6 x  7 with Arch and Rounded Pillars
 0 Name: 40066.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
-
-0 // // Doorstep
+0 // Doorstep
 2 24 60 168 10 -60 168 10
 2 24 -60 168 10 -60 168 -10
 2 24 -60 168 -10 60 168 -10
@@ -84,13 +81,13 @@
 2 24 -40 160 -10 40 160 -10
 2 24 -40 160 10 40 160 10
 
-0 // //Pillars
+0 //Pillars
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\40066s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\40066s01.dat
 1 16 -50 24 0 -1 0 0 0 1 0 0 0 -1 stud2.dat
 1 16 50 24 0 -1 0 0 0 1 0 0 0 -1 stud2.dat
 
-0 // // Top Joiner
+0 // Top Joiner
 3 16 -37.5 0 7.5 0 4 7.5 37.5 0 7.5
 3 16 37.5 0 -7.5 0 4 -7.5 -37.5 0 -7.5
 4 16 -40 0 10 -37.5 0 7.5 37.5 0 7.5 40 0 10

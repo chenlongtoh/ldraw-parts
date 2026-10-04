@@ -1,17 +1,13 @@
 0 Minifig Boombox  1 x  3 x  1 with Metallic Gold Rimmed Speakers and Digital Music Player Pattern
 0 Name: 93221p04.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Minifig Accessory
-0 !KEYWORDS BrickLink 93221pb04, Collectible Minifigures
-0 !KEYWORDS Rebrickable 93221pr0004, Set 71019-21, The LEGO Ninjago Movie
-
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
+0 !KEYWORDS BrickLink 93221pb04
+0 !KEYWORDS The LEGO Ninjago Movie, collectible minifigures
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\93221s01.dat
 1 82 0 0 0 1 0 0 0 1 0 0 0 1 s\93221s03.dat

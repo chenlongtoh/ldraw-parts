@@ -1,16 +1,12 @@
 0 Panel  1 x  6 x  5 with Metallic Gold "40 Years LEGO Education" Badge Pattern
 0 Name: 59349p02.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 59349pb211, Christmas, Employee, Present
-0 !KEYWORDS Rebrickable 59349pr0003, Set 4002020
-
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
+0 !KEYWORDS Set 4002020, Christmas, Present, Employee
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\59349s01.dat
 

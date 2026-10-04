@@ -1,13 +1,10 @@
-0 Brick  2 x  2 x  0.667 Corner with Curved Top
-0 Name: 79757.dat
+0 FILE 79757.dat
+0 Slope, Curved 2 x 2 x 2/3 Double Corner
+0 Name:  79757.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Part UPDATE 2022-04
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 BL_Item_No 79757
 
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
-
 
 4 16 9 0 9 6 0 6 6 0 26 9 0 29
 4 16 9 0 29 6 0 26 -6 0 26 -9 0 29

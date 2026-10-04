@@ -1,14 +1,8 @@
-0 Wheel Rim  8 x  8 Notched Hole, Reinforced Back with Yellow Ring Pattern with Tyre  8/ 40 x  8 Slick Smooth
-0 Name: 74967p01c01.dat
-0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Shortcut UPDATE 2024-09
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
-
+0 FILE 74967p01c01.dat
+0 Wheel 8mm D. x 9mm for Slicks, Hole Notched for Wheels Holder Pin, Reinforced Back with Yellow Rim Edge Pattern with Black Tire 14mm D. x 9mm Smooth Small Wide Slick (74967pb01 / 30028)
+0 Name:  74967p01c01.dat
+0 Author:  
+0 BL_Item_No 74967pb01c01
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2022-07-18 [PTadmin] Official Update 2022-04
-0 !HISTORY 2024-10-17 [Holly-Wood] Upgraded from 30028 (Moveto) to 30028b
-0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 74967p01.dat
-1 256 0 0 0 1 0 0 0 1 0 0 0 1 30028b.dat
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 74967p01.dat
+1 256 0.0000 0.0000 -5.0000 0.0000 0.0000 -1.0000 0.0000 1.0000 0.0000 1.0000 0.0000 0.0000 30028.dat

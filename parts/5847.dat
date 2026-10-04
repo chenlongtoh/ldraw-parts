@@ -1,14 +1,15 @@
 0 Brick  1 x  2 x  1 with Curved Bottom
 0 Name: 5847.dat
 0 Author: Rene Rechthaler [Blechtaler]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2026-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Inverted, slope
+0 !KEYWORDS Brickowl 615671, Inverted, slope
 
 0 !HISTORY 2026-01-02 [Blechtaler] made from 1750 by [GeraldLasser]
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
 
 1 16 0 8 0 0 0 -1 0 1 0 1 0 0 stud.dat
 1 16 0 16 0 10 0 0 0 -8 0 0 0 10 box4-4a.dat

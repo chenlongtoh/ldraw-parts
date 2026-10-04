@@ -1,17 +1,14 @@
 0 Plant Seaweed with  4 Studs and  7 Bars
 0 Name: 49577.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 !HELP Oblique bars angle: 22.5°
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Coral
-
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
 
 1 16 20 30 -10 0 0 -1 -1 0 0 0 1 0 stud2a.dat
 0 BFC INVERTNEXT
@@ -75,7 +72,7 @@
 2 24 -2.4876 77.5054 -6.0054 -3.0616 77.3912 -5.6217
 2 24 -2.4876 77.5054 -6.0054 0 78 -6.5
 1 16 0 70 5.6217 -3.06147 0 7.39104 7.39104 0 3.06147 0 1 0 1-8edge.dat
-1 16 0 78.69555 5.6217 3.0615 0 0 -0.0001 0 1.3044 0 -1 0 rect3.dat
+1 16 -5e-005 78.69555 5.6217 3.0615 0 0 -0.0001 0 1.3044 0 -1 0 rect3.dat
 4 16 -3.0616 80 5.6217 3.0616 80 5.6217 0 80 -6.5 -4.5962 80 4.5962
 3 16 3.0616 80 5.6217 4.5962 80 4.5962 0 80 -6.5
 1 16 20 30 -10 0 0 2 2 0 0 0 1 0 4-4ring3.dat

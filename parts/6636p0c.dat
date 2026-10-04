@@ -1,16 +1,12 @@
 0 Tile  1 x  6 with Friends Ruler Pattern
 0 Name: 6636p0c.dat
 0 Author: Takeshi Takahashi [RainbowDolphin]
-0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 6636pb043, Design, Fashion, Rebrickable 6636pr0011
-0 !KEYWORDS Set 3936, Set 5002929
-
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
+0 !KEYWORDS Fashion, Design, Set 3936, Set 5002929, Bricklink 6636pb043
 
 0 // Subfile
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6636s01.dat

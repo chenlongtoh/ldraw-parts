@@ -1,4 +1,4 @@
-0 End part for cloth 94318
+0 ~Cloth  4.3 x 30.7 with 10 Rectangular Holes - End
 0 Name: s\94318s03.dat
 0 Author: Frank Engel [lostcontinent]
 0 !LDRAW_ORG Unofficial_Subpart 
@@ -9,6 +9,7 @@
 0 !HISTORY 2015-01-30 [lostcontinent] BFC compliant
 
 0 // outer layer
+
 4 16 -26 7 -100 -23 7 -100 -23 79 -100 -26 79 -100 
 4 16 -54 13 -100 -26 13 -100 -26 73 -100 -54 73 -100 
 0 // inner layer

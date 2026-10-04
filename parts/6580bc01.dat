@@ -1,13 +1,8 @@
-0 Wheel Rim 23 x 22 Off Road with Split Axlehole with Tyre 26/ 36 x 22 Off Road
-0 Name: 6580bc01.dat
-0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Shortcut UPDATE 2022-02
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
-
+0 FILE 6580bc01.dat
+0 Wheel 43.2 x 28 Balloon Small with Axle Hole (+ Shape) with Black Tire 43.2 x 28 S Balloon Small (6580a / 6579)
+0 Name:  6580bc01.dat
+0 Author:  
+0 BL_Item_No 6580ac01
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
-
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 6580b.dat
-1 256 0 0 0 1 0 0 0 1 0 0 0 1 6579.dat
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 6580b.dat
+1 256 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 6579.dat

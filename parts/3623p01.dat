@@ -1,16 +1,13 @@
 0 Plate  1 x  3 with  6 Metallic Silver Dots with Black Border Pattern
 0 Name: 3623p01.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Apocalypseburg Unikitty, Bricklink 3623pb018, Rebrickable 3623pr0027
-0 !KEYWORDS Set 70820, Set 70831, Set 70837, Set 70842, The LEGO Movie 2
-
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
+0 !KEYWORDS Set 70820, Set 70831, Set 70837, Set 70842, Bricklink 3623pb018
+0 !KEYWORDS The Lego Movie 2, Apocalypseburg Unikitty
 
 0 // Subparts
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3623s01.dat
