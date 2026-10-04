@@ -2,7 +2,7 @@
 0 Name: 2741.dat
 0 Author: Donald Sutter [technog]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
@@ -11,7 +11,6 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2008-07-07 [guyvivan] Made BFC compliant (2004-08-02)
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 
 1 16 0 -17 0 43 0 0 0 43 0 0 0 43 t04o1429.dat
 1 16 0 -17 0 43 0 0 0 43 0 0 0 43 t04i1429.dat
@@ -399,7 +398,7 @@
 2 24 -29 -2 -10 -37.26 -12.76 -10
 2 24 -38.76 -12.76 4.5 -37.26 -12.76 10
 2 24 -29 -2 10 -37.26 -12.76 10
-0 // The raised "LEGO"
+0 The raised "LEGO"
 2 24 6 -10.3 -7 4 -10.3 -13
 2 24 4 -10.3 -13 5 -10.3 -13
 3 16 6 -10.3 -7 6.5 -10 -6.7 5.7 -10 -6.7

@@ -1,22 +1,18 @@
-0 Brick  2 x  4 x  4 with Propeller Housing
+0 Brick  2 x  4 x  4 with Propellor Housing
 0 Name: 30535.dat
 0 Author: John Riley [jriley]
-0 !LDRAW_ORG Part UPDATE 2024-02
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2014-01
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Engine, intake, propulsion, rotor
+0 !KEYWORDS engine, rotor, propulsion, intake
 
 0 !HISTORY 2007-10-07 [mikeheide] fixed all 24 lines
 0 !HISTORY 2009-01-29 [mikeheide] changed header uses 4-4ring4.dat
 0 !HISTORY 2013-03-11 [mikeheide] Changed two edgelines, changed two 4-4cyli.dat to 3-4cyli.dat like requested.
 0 !HISTORY 2014-02-13 [MMR1988] Completely rewritten
 0 !HISTORY 2014-06-21 [PTadmin] Official Update 2014-01
-0 !HISTORY 2021-03-17 [cwdee] Update description
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
-0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30535s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30535s01.dat
@@ -48,8 +44,8 @@
 1 16 0 96 0 36 0 0 0 -4 0 0 0 16 box5.dat
 1 16 0 92 0 1 0 0 0 -1 0 0 0 1 stug4-1x3.dat
 
-1 16 0 42 -20 0 0 2 2 0 0 0 1 0 48\4-4ring17.dat
-1 16 0 42 -20 0 0 2 2 0 0 0 1 0 48\4-4ring18.dat
+1 16 0 42 -20 0 0 2 2 0 0 0 1 0 48\4-4rin17.dat
+1 16 0 42 -20 0 0 2 2 0 0 0 1 0 48\4-4rin18.dat
 4 16 9.8344 4 -20 -9.8344 4 -20 -9.8344 5.35194 -20 9.8344 5.35194 -20
 
 1 16 0 42 -10 0 0 1 1 0 0 0 1 0 connhole.dat

@@ -1,15 +1,12 @@
-0 ~Electric Powered Up Large ANgular Motor Front Bottom Half
+0 ~Electric Spike Prime Large Motor Front Bottom Half
 0 Name: s\u9368s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Subpart UPDATE 2020-03
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2019-03
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2019-12-27 [PTadmin] Official Update 2019-03
-0 !HISTORY 2020-12-27 [PTadmin] Update description
-0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
-
 
 2 24 47 -9 50 49 -9 50
 2 24 47 -9 50 47 7 50
@@ -117,13 +114,13 @@
 1 16 50 0 -20 0 -16 0 -6.36396 0 -6.36396 6.36396 0 -6.36396 1-4cylo.dat
 2 24 34 -6.364 -26.364 34 -9 -26.3639
 4 16 34 -6.3 -26.364 34 -9 -26.364 50 -9 -26.364 50 -6.3669 -26.364
-1 16 34 -7.65 -20.00003 0 -1 0 -1.35 0 0 0 0 -6.364 rect1.dat
+1 16 34 -7.65 -20.00003 0 -1 0 -1.35 0 0 -5e-005 0 -6.364 rect1.dat
 2 24 50 -6.364 -26.364 50 -9 -26.364
 2 24 34 -6.364 -26.364 50 -6.364 -26.37
 3 16 50 -9 -26.364 50 -9 -29 50 -6.3669 -26.364
 2 24 50 -9 -29 50 -9 -26.364
 2 24 50 -9 -29 50 0 -29
-1 16 42 -7.682 -13.63605 0 0 8 1.318 0 0 0 1 0 rect.dat
+1 16 42 -7.682 -13.63605 0 0 8 1.318 0 0 5e-005 1 0 rect.dat
 2 24 34 -9 -26.364 50 -9 -26.364
 2 24 32 -9 -11 32 -9 -27
 4 16 50 -9 -13.6361 47 -9 -11 32 -9 -11 34 -9 -13.6361

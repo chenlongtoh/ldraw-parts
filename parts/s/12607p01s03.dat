@@ -1,10 +1,12 @@
 0 ~Minifig Head Ninja Turtle - Patternable Area Mouth/Forehead with Leonardo Frown Pattern
 0 Name: s\12607p01s03.dat
 0 Author: Chris Böhnke [KnightOfTarenta]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2026-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-03-31 [OrionP] Official Update 2026-03
 
 0 // Forehead
 3 16 4.031 -22.457 -11.845 4.146 -27.307 -3.335 0 -27.476 -4.338

@@ -1,12 +1,12 @@
 0 Brick  2 x  2 x  3.333 Octagonal With Side Studs
 0 Name: 6042.dat
 0 Author: Steve Bliss [sbliss]
-0 !LDRAW_ORG Part UPDATE 2022-02
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2018-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Aquazone, pipe, side stud
+0 !KEYWORDS aquazone, pipe, side stud
 
 0 !HISTORY 1998-10-15 [PTadmin] Official Update 1998-09
 0 !HISTORY 1999-04-14 [sbliss] Fixed 2 bad subfile references by inlining.
@@ -15,9 +15,6 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2011-11-16 [Rolf] BFC'd, refactored
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
-0 !HISTORY 2021-12-29 [MagFors] Reshaped axleholes
-0 !HISTORY 2022-03-06 [PTadmin] Official Update 2022-02
-
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6042s01.dat
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\6042s01.dat
@@ -54,24 +51,24 @@
 1 16 0 68.25 0 8 0 0 0 -1 0 0 0 -8 2-4ndis.dat
 1 16 0 68.25 0 8 0 0 0 -1 0 0 0 -8 2-4edge.dat
 1 16 0 68.25 0 8 0 0 0 7.75 0 0 0 8 4-4cyli.dat
-1 16 0 20 -20 1 0 0 0 0 -1 0 12 0 axl5hol8.dat
-1 16 0 60 -20 1 0 0 0 0 -1 0 12 0 axl5hol8.dat
-1 16 0 20 -8 1 0 0 0 0 -1 0 1 0 axl5end.dat
-1 16 0 60 -8 1 0 0 0 0 -1 0 1 0 axl5end.dat
+0 BFC INVERTNEXT
+1 16 0 20 -20 1 0 0 0 0 -1 0 12 0 axlehol8.dat
+0 BFC INVERTNEXT
+1 16 0 60 -20 1 0 0 0 0 -1 0 12 0 axlehol8.dat
+1 16 0 20 -8 1 0 0 0 0 -1 0 1 0 axleend.dat
+1 16 0 60 -8 1 0 0 0 0 -1 0 1 0 axleend.dat
 1 16 0 20 -8 1 0 0 0 0 -1 0 1 0 axlehol2.dat
 1 16 0 60 -8 1 0 0 0 0 -1 0 1 0 axlehol2.dat
-1 16 0 20 -8 1 0 0 0 0 -1 0 1 0 axl5hol9.dat
-1 16 0 60 -8 1 0 0 0 0 -1 0 1 0 axl5hol9.dat
+1 16 0 20 -8 1 0 0 0 0 -1 0 1 0 axlehol9.dat
+1 16 0 60 -8 1 0 0 0 0 -1 0 1 0 axlehol9.dat
 1 16 0 20 -20 1 0 0 0 0 -1 0 1 0 axlehol2.dat
 1 16 0 60 -20 1 0 0 0 0 -1 0 1 0 axlehol2.dat
-1 16 0 20 -20 1 0 0 0 0 -1 0 1 0 axl5hol9.dat
-1 16 0 60 -20 1 0 0 0 0 -1 0 1 0 axl5hol9.dat
-1 16 0 20 -20 1 0 0 0 0 -1 0 1 0 axl5ho10.dat
-1 16 0 60 -20 1 0 0 0 0 -1 0 1 0 axl5ho10.dat
+1 16 0 20 -20 1 0 0 0 0 -1 0 1 0 axlehol9.dat
+1 16 0 60 -20 1 0 0 0 0 -1 0 1 0 axlehol9.dat
 
 4 16 -4 3.15 -20 -4 3.15 -8.75 4 3.15 -8.75 4 3.15 -20
 4 16 -4 3.15 -20 4 3.15 -20 8 0 -20 -8 0 -20
-2 24 4 3.15 -20 -4 3.15 -20
+2 24 4 3.15 -20 -4 3.15 -20 
 2 24 -4 3.15 -8.75 4 3.15 -8.75
 3 16 0 12 -8.75 4 3.15 -8.75 -4 3.15 -8.75
 3 16 4 70 -20 0 66 -20 -4 70 -20

@@ -2,22 +2,19 @@
 0 Name: 3068bpf3.dat
 0 Author: Niels Karsdorp [nielsk]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 3068pb2437, Rebrickable 3068bpr9913, Scala Jewellery
-0 !KEYWORDS set 308
+0 !KEYWORDS Scala Jewellery
 
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
 0 !HISTORY 2018-03-31 [cwdee] Update description
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
 
-
-0 // // Tile
+0 // Tile
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
-0 // Pattern 7
+0 Pattern 7
 4 16 -14.5 0 2.5 -10 0 14 -10 0 17 -14.5 0 17
 4 16 -14.5 0 2.5 -10.5 0 2.5 -9.5 0 8 -10 0 14
 4 16 -9.5 0 8 -8 0 10 -9 0 14 -10 0 14
@@ -34,7 +31,7 @@
 4 16 -4.5 0 -3 5 0 -3 7.5 0 2.5 -2.5 0 -0.5
 4 16 -6.5 0 -9 3.5 0 -8.5 5 0 -3 -4.5 0 -3
 4 16 -7 0 -15.5 2.5 0 -15.5 3.5 0 -8.5 -6.5 0 -9
-0 // Pattern inverse 7
+0 Pattern inverse 7
 4 6 -14.5 0 17 -10 0 17 -7 0 20 -20 0 20
 4 6 -10 0 17 -7.5 0 15.5 -6 0 16.5 -7 0 20
 4 6 -10 0 14 -9 0 14 -7.5 0 15.5 -10 0 17

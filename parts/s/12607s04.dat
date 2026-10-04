@@ -1,10 +1,12 @@
 0 ~Minifig Head Ninja Turtle - Patternable Area Eyes
 0 Name: s\12607s04.dat
 0 Author: Chris Böhnke [KnightOfTarenta]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 3 16 11.43 -18.352 -10.025 9.735 -22.601 -9.034 5.261 -19.569 -14.658
 3 16 5.261 -19.569 -14.658 5.571 -17.329 -14.84 11.43 -18.352 -10.025

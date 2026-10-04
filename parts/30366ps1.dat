@@ -2,14 +2,11 @@
 0 Name: 30366ps1.dat
 0 Author: Guy Vivan [guyvivan]
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS BrickLink 30366pb02, Rebrickable 30366pr0001, set 10123
-
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
-
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30366s01.dat
 1 16 0 60 0 1 0 0 0 1 0 0 0 1 s\30366p2a.dat
@@ -20,7 +17,7 @@
 1 16 0 60 0 -1 0 0 0 1 0 0 0 1 s\30366p2b.dat
 1 16 0 60 0 1 0 0 0 1 0 0 0 1 s\30366p2c.dat
 1 16 0 60 0 -1 0 0 0 1 0 0 0 1 s\30366p2c.dat
-0 // First border ext
+0 First border ext
 4 16 6.525 10.43 -26.6 7.83 0.516 -20 0 0 -20 0 10 -26.6
 4 16 12.94 11.705 -26.6 15.528 2.046 -20 7.83 0.516 -20 6.525 10.43 -26.6
 4 16 19.135 13.805 -26.6 22.962 4.566 -20 15.528 2.046 -20 12.94 11.705 -26.6

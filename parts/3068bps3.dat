@@ -2,13 +2,10 @@
 0 Name: 3068bps3.dat
 0 Author: Orion Pobursky [OrionP]
 0 !LDRAW_ORG Part UPDATE 2009-03
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
-0 !KEYWORDS BrickLink 3068px8, Mos Espa Pod Race, Rebrickable 3068bpr0357
-0 !KEYWORDS Sebulba, Set 7171, Star Wars
-
+0 !KEYWORDS Star Wars, set 7171, Mos Espa Pod Race, Sebulba
 0 !CMDLINE -c0
 
 0 !HISTORY 2003-03-12 [PTadmin] Official Update 2003-01
@@ -16,7 +13,6 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2009-10-16 [anathema] BFC'd; flipped pattern & inlined subpart
 0 !HISTORY 2009-12-29 [PTadmin] Official Update 2009-03
-
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3068bs01.dat
 4 15 10.4 0 1.2 10.9 0 -0.6 12 0 1.2 11.5 0 2
@@ -248,6 +244,6 @@
 4 462 10.8 0 -5.5 11.1 0 -3.8 11.1 0 -2.1 10.1 0 -2.8
 4 462 11.1 0 -2.1 10.9 0 -0.6 10.4 0 1.2 10.1 0 -2.8
 3 462 10.4 0 1.2 8 0 -0.2 10.1 0 -2.8
-0 // Thanks James
-0 // Pattern created wholly or in part by Quad2Dat
+0 Thanks James
+0 Pattern created wholly or in part by Quad2Dat
 0

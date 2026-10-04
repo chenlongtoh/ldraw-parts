@@ -1,21 +1,19 @@
 0 ~Tile  2 x  2 with  1 x  1 Quarter Circle Cutout without Top Surface
 0 Name: s\u9251s01.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Subpart UPDATE 2024-02
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2020-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-09-05 [PTadmin] Official Update 2020-02
-0 !HISTORY 2024-03-23 [OrionP] Updated ring primitives
-0 !HISTORY 2024-03-24 [OrionP] Official Update 2024-02
 
 1 16 0 3.5 0 0 0 -20 3.5 0 0 0 -20 0 box2-5.dat
 1 16 20 3.5 -10 0 -1 0 3.5 0 0 0 0 10 rect3.dat
 1 16 -10 3.5 20 0 0 10 -3.5 0 0 0 -1 0 rect3.dat
 0 BFC INVERTNEXT
 1 16 20 0 20 -20 0 0 0 7 0 0 0 -20 1-4cylo.dat
-1 16 20 7 20 -1 0 0 0 -1 0 0 0 -1 1-4ring20.dat
+1 16 20 7 20 -1 0 0 0 -1 0 0 0 -1 1-4rin20.dat
 
 4 16 20 7 -20 19 7 -19 19 7 -0.80115 20 7 0
 4 16 -20 7 -20 -19 7 -19 19 7 -19 20 7 -20
@@ -63,7 +61,7 @@
 5 24 10.2411 4 -3.55945 10.2411 8 -3.55945 16 4 -4.7046 1.96895 4 1.96895
 
 1 16 0 4 0 0.70711 0 -0.70711 0 -1 0 -0.70711 0 -0.70711 2-4stud4.dat
-1 16 6.52402 6 -4.35922 0.8672 -1 0 0 0 -2 1.2976 0 0 rect2p.dat
+1 16 6.52402 6 -4.35922 0.8672 -1 4e-005 0 0 -2 1.2976 0 -4e-005 rect2p.dat
 1 16 7.51466 6 -2.44071 0 -1 0.123465 2 0 0 0 0 0.62089 rect3.dat
 1 16 -4.35924 6 6.52404 1.29764 0 0 0 0 2 0.86716 -1 0 rect2p.dat
 1 16 -2.44071 6 7.51466 0 0 0.62089 -2 0 0 0 -1 0.123465 rect3.dat

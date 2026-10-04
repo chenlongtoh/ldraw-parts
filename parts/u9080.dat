@@ -1,13 +1,10 @@
 0 Plant Flat Bush with Hollow Base
 0 Name: u9080.dat
 0 Author: Steffen [Steffen]
-0 !LDRAW_ORG Part UPDATE 2022-01
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
-0 !HISTORY 2022-01-14 [PTadmin] Official Update 2022-01
-
 
 1 16 0 -10 0 0.97 0 0 0 0 -0.97 0 1 0 s\u9078s01.dat
 1 16 0 -10 0 0.97 0 0 0 0 -0.97 0 1 0 s\u9078s02.dat

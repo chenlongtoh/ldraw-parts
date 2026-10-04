@@ -1,10 +1,12 @@
 0 ~Minifig Head Ninja Turtle - Patternable Area Mouth/Forehead
 0 Name: s\12607s03.dat
 0 Author: Chris Böhnke [KnightOfTarenta]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 0 // Mouth
 3 16 0 -2.317 -15.912 8.238 -8.858 -17.322 0 -9.218 -19.525

@@ -2,10 +2,9 @@
 0 Name: 4509.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2010-02
-0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
-
 0 !KEYWORDS Train Roof
 
 0 !HISTORY 2007-07-08 [PTadmin] Header formatted for Contributor Agreement
@@ -13,14 +12,13 @@
 0 !HISTORY 2008-07-07 [DeannaEarley] BFC'd and tidied (2006-02-19)
 0 !HISTORY 2010-07-05 [PTadmin] Official Update 2010-02
 
-
 1 16 40 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 0 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -20 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 1 16 -40 4 0 1 0 0 0 -1 0 0 0 1 stud4.dat
 
-0 // +Z studs
+0 +Z studs
 1 16 40 20 40 1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 40 20 40 6 0 0 0 -3.56 0 0 0 6 4-4cyli.dat
@@ -51,7 +49,7 @@
 1 16 -40 20 40 8 0 0 0 -3.56 0 0 0 8 4-4cyli.dat
 1 16 -40 16.44 40 0 0 -1 0 3.55 0 1 0 0 stud4s.dat
 
-0 // -Z studs
+0 -Z studs
 1 16 40 20 -40 1 0 0 0 -1 0 0 0 1 stud4a.dat
 0 BFC INVERTNEXT
 1 16 40 20 -40 6 0 0 0 -3.56 0 0 0 6 4-4cyli.dat
@@ -276,7 +274,7 @@
 4 16 -60 20 60 -60 0 20 60 0 20 60 20 60
 4 16 60 20 -60 60 0 -20 -60 0 -20 -60 20 -60
 
-0 // Top studs
+0 Top studs
 1 16 50 0 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 30 0 10 1 0 0 0 1 0 0 0 1 stud.dat
 1 16 10 0 10 1 0 0 0 1 0 0 0 1 stud.dat
