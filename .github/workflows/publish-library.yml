@@ -1,0 +1,60 @@
+# Publishes the library to S3 (served through CloudFront) on every push to main.
+# Objects are content-addressed, so only changed files upload and every URL is
+# cached forever; latest.json is the one short-lived file and is written last.
+name: Publish library
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: publish-library
+  cancel-in-progress: false
+
+permissions:
+  id-token: write
+  contents: read
+
+env:
+  BUCKET: s3://eb-ldraw-bucket/ldraw
+  IMMUTABLE: public, max-age=31536000, immutable
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Stage library
+        run: node scripts/build-library.mjs --out .library-dist --version "${GITHUB_SHA::12}"
+
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE_ARN }}
+          aws-region: us-east-1
+
+      - name: Upload objects
+        run: |
+          aws configure set default.s3.max_concurrent_requests 64
+          # Keys embed the content hash, so an existing key of the same size is the same file.
+          aws s3 sync .library-dist/objects "$BUCKET/objects" --size-only --no-progress \
+            --exclude '*' --include '*.dat' --include '*.ldr' --include '*.mpd' \
+            --content-type 'text/plain; charset=utf-8' --cache-control "$IMMUTABLE"
+          aws s3 sync .library-dist/objects "$BUCKET/objects" --size-only --no-progress \
+            --exclude '*' --include '*.png' \
+            --content-type 'image/png' --cache-control "$IMMUTABLE"
+
+      - name: Upload index
+        run: |
+          aws s3 cp .library-dist/index "$BUCKET/index" --recursive --no-progress \
+            --content-type 'application/json' --cache-control "$IMMUTABLE"
+
+      - name: Point latest at this version
+        run: |
+          aws s3 cp .library-dist/latest.json "$BUCKET/latest.json" --no-progress \
+            --content-type 'application/json' --cache-control 'public, max-age=60'
