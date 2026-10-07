@@ -47,6 +47,7 @@ function* walk(dir) {
 /** Library-relative paths in lookup precedence order: parts/, p/, models/, then root files. */
 function* libraryFiles() {
   for (const folder of FOLDERS) {
+    if (!fs.existsSync(path.join(root, folder))) continue
     for (const full of walk(path.join(root, folder))) {
       yield path.relative(root, full).split(path.sep).join('/')
     }
