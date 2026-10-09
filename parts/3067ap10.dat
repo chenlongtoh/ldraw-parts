@@ -2,9 +2,11 @@
 0 Name: 3067ap10.dat
 0 Author: Alex Taylor [anathema]
 0 !LDRAW_ORG Part UPDATE 2018-01
-0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3067pb08, Rebrickable 3067pr0001, Set 7822
 
 0 !CMDLINE -c36
 

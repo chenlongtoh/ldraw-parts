@@ -1,10 +1,13 @@
 0 ~Constraction Limb  4 x  7 Bent 45 with Ball Joint and Opposing Axleholes - Single Rounded Extrusion
 0 Name: s\32476s02.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
 
 0 // Faces
 4 16 -2.1304 10 3.6697 2.1304 10 7.5045 1.9404 9.2512 5.6493 -1.9404 9.2512 2.1565

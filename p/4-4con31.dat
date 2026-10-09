@@ -1,10 +1,13 @@
 0 Cone 31 x 1.0
 0 Name: 4-4con31.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Unofficial_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Primitive UPDATE 2026-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
+
 
 0 // Made with Primitive Generator
 
@@ -44,5 +47,4 @@
 5 24 28.6409 1 -11.8637 29.5648 0 -12.2464 21.9201 1 -21.9201 31 1 0
 
 0 // end of file
-
 

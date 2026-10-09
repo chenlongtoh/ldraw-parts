@@ -1,10 +1,12 @@
-0 ~Minifig Tool Screwdriver with  4 Prongs - Single Prong
+0 ~Minifig Tool Sonic Screwdriver - Single Prong
 0 Name: s\21700s02.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
 
 
 4 16 -3.348 -18.425 1.652 -6.822 -23.096 1.303 -4.394 -24.588 1.462 -3.309 -23.595 1.564

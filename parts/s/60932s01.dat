@@ -1,12 +1,13 @@
 0 ~Constraction Ball Cannon Housing - Half
 0 Name: s\60932s01.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Subpart 
+0 !LDRAW_ORG Subpart UPDATE 2024-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2021-12-27 [MagFors] Reshaped axleholes, general clean-up
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
 
 
 2 24 27.279 24.25 -5 29.1028 27.945 -5

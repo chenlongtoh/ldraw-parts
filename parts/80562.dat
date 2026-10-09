@@ -1,10 +1,14 @@
-0 Train Track Roller Coaster  4 x  4
+0 Train Track Roller Coaster Straight  4 x  4
 0 Name: 80562.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part 
+0 !LDRAW_ORG Part UPDATE 2025-11
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS Brickowl 1357657
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
 
 
 1 16 -30 0 0 1 0 0 0 1 0 0 0 1 stug-2x1.dat

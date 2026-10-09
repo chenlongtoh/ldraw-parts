@@ -1,10 +1,12 @@
 0 ~Tile  2 x  2 Round Underside - 1/8th
 0 Name: s\5520s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2024-05
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 3 16 -14.634 8 -6.344 -15.543 8 -7.703 -17.555 8 -7.271
 4 16 -16 8 0 -14.634 8 -6.344 -17.555 8 -7.271 -19 8 0

@@ -1,10 +1,12 @@
 0 ~Minifig Arm Left with Brown Fur - Fur
 0 Name: s\3819pdg1s02.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2024-09
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 4 16 5.431 -2.179 -2.121 5.489 -2.103 -1.944 5.52 -2.135 -1.662 5.479 -2.323 -1.42
 4 16 6.957 2.376 3.107 7.395 3.421 3.102 7.275 3.396 3.315 6.938 2.495 3.241

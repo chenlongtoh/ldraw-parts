@@ -2,15 +2,16 @@
 0 Name: 86501.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2013-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Uncomment following lines for a 22.5° raised ramp
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Baseplate
+0 !KEYWORDS Baseplate, BrickLink 64699
 
 0 !HISTORY 2013-07-21 [PTadmin] Official Update 2013-01
+
 
 0 // 1 16 0 -61.229 0 1 0 0 0 1 0 0 0 1 s\86501s01.dat
 0 // 1 16 0 0 -147.821 1 0 0 0 1 0 0 0 1 s\86501s04.dat

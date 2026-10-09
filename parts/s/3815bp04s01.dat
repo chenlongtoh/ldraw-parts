@@ -1,10 +1,12 @@
 0 ~Minifig Hips with Gold Belt Pattern - Half
 0 Name: s\3815bp04s01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 4 0 -15.55 1 0 -17 1 0 -16.2 1.45 0 -15.25 1.9 0
 4 0 -14.35 1.5 0 -15.55 1 0 -15.25 1.9 0 -13.85 2.45 0

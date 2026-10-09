@@ -1,10 +1,12 @@
 0 ~Figure Friends Left Arm Stump Top
 0 Name: s\2758s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 4 16 4.227 7.54 -0.481 4.6 8.2 -0.4 5.9578 7.4932 -0.0956 5.63 6.778 -0.166
 3 16 5.9578 7.4932 -0.0956 6.768 6.137 0.63 5.63 6.778 -0.166

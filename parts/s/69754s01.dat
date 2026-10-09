@@ -1,10 +1,13 @@
-0 ~Projectile Launcher with Plate  1 x  2 Half
+0 ~Plate  1 x  2 with Mini Shooting Blaster Type 2 - Half
 0 Name: s\69754s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
 
 1 16 5.7 -18.3 -35.3 0 -2.5 0 0 0 -1 2.1 0 0 2-4cylo.dat
 1 16 3.2 -18.3 -35.3 0 1 0 0 0 -1 2.1 0 0 2-4chrd.dat

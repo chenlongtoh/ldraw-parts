@@ -1,10 +1,12 @@
 0 ~Minifig Torso with Metallic Silver Yoke and Belt, Black Pendant and Nougat Middle Pattern - Half
 0 Name: s\973pxts01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 4 0 -3.125 25.783 -10 -3.679 25.416 -10 -4.088 26.656 -10 -3.473 26.909 -10
 4 0 -2.658 24.797 -10 -3.129 24.329 -10 -3.679 25.416 -10 -3.125 25.783 -10

@@ -1,12 +1,13 @@
 0 ~Technic Brick  5 x  5 Corner with Holes - Corner
 0 Name: s\32555s02.dat
 0 Author: Rene Rechthaler [Blechtaler]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2026-04
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2026-01-16 [Blechtaler] made from 32555.dat by [technog]
+0 !HISTORY 2026-04-27 [OrionP] Official Update 2026-04
 
 0 // outside
 4 16 -14.25 20 5.75 -20 0 0 0 0 20 -5.75 20 14.25

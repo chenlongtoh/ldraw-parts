@@ -1,10 +1,12 @@
 0 ~Figure Friends Woman Torso with Bright Light Blue Strapless Dress Top with Dark Blue Trim, Metallic Light Blue Undershirt and Dots Symmetrical Part Pattern
 0 Name: s\1011297p01s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 4 272 9.7743 9.0549 0.9992 9.9183 8.6771 0.5134 10.0545 8.6777 -0.1227 10.0183 9.0575 -0.1408
 4 272 9.4462 8.6821 -4.8332 9.5286 9.0665 -4.1193 9.6326 9.0656 -3.6958 9.6701 8.6812 -3.9207

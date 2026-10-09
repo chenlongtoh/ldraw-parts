@@ -1,10 +1,13 @@
 0 ~Minifig Helmet Stormtrooper Half Shadow Trooper Pattern
 0 Name: s\30408s06.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
 
 3 80 8.858 3.224 -16.953 6.355 3.071 -18.468 7.965 3.525 -18.17
 3 80 13.953 3.838 -10.35 13.693 3.039 -9.592 11.446 3.109 -14.349

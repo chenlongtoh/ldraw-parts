@@ -1,15 +1,18 @@
 0 Minifig Head with Moustache Curly and Spiky Beard under Mouth Pattern
 0 Name: 3626bp45.dat
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Part UPDATE 2016-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Part UPDATE 2024-07
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS wild west, western, cavalry, fort, legoredo, colonel
-0 !KEYWORDS set 6769, set 6762, set 6706, set 852697
+0 !KEYWORDS BrickLink 3626px23, cavalry, colonel, fort, legoredo
+0 !KEYWORDS Rebrickable 3626bpr0323, set 6706, set 6762, set 6769, set 852697
+0 !KEYWORDS western, wild west
 
 0 !HISTORY 2016-12-31 [PTadmin] Official Update 2016-01
+0 !HISTORY 2024-08-21 [Lego-Manfred] References added
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
 
 0 // Pattern
 0 // Forehead

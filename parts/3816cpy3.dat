@@ -1,20 +1,22 @@
 0 Minifig Leg Right with Racing Suit with Black AMG Logo, Green Halftone and Grey Dotted Lines Pattern (Needs Work)
 0 Name: 3816cpy3.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2024-09
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
 0 !HELP Move at z=1.25 relative to stud grid
 0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 3816cpy3.dat
 0 !HELP 1 16 0 28 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
-0 !HELP Needs work: it seams that there is another dotted lines at Z = -6.8 and the end of the logo, usually behind the hips
+0 !HELP Needs work: it seems that there is another dotted line at Z = -6.8 and the end of the logo, usually behind the hips
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS 2016, 44, 6, AMG, F1, Formula, Hamilton, Hybrid, Lewis, Mercedes
 0 !KEYWORDS Nico, One, Petronas, Rosberg, Set 75883, Set 75995, Speed Champions
 0 !KEYWORDS Team, W07
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 0 // Subpart
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817cs01.dat
@@ -1321,7 +1323,6 @@
 3 16 -13.4 10.9 -5.75 -14.3567 10.8624 -5.75 -14.3834 11.4466 -5.75
 3 16 -13.4 10.9 -5.75 -14.3834 11.4466 -5.75 -12.2 10.9 -5.75
 4 16 -1.25 8 -5.75 -2 8 -5.75 -2.2 10.1 -5.75 -1.25 20 -5.75
-3 16 -2.2 10.1 -5.75 -2.2 10.9 -5.75 -1.25 8.75 -3.349
 3 16 -2.2 10.1 -5.75 -2.2 10.9 -5.75 -1.25 20 -5.75
 0 // Foot front
 4 16 -1.25 20 -11.25 -18.978 20 -11.25 -19.25 28 -11.25 -1.25 28 -11.25

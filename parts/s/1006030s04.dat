@@ -1,10 +1,12 @@
 0 ~Figure Friends Girl Torso Outer Mold Front Half
 0 Name: s\1006030s04.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 3 16 5.586 -5.538 -1.945 5.662 -6.058 .04 4 -6.451 .2
 3 16 4 -6.451 .2 3.6956 -5.948 -1.3308 5.586 -5.538 -1.945

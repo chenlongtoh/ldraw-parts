@@ -1,7 +1,7 @@
 0 Constraction Ball Cannon (Contracted)
 0 Name: 62233-f2.dat
 0 Author: Santeri Piippo [arezey]
-0 !LDRAW_ORG Unofficial_Shortcut 
+0 !LDRAW_ORG Shortcut UPDATE 2024-06
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP This file represents the ball cannon in the state it's in when four balls
@@ -10,7 +10,10 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Constraction Accessory
-0 !KEYWORDS bionicle, Karda Nui, Midak Skyblaster, Phantoka, Shooter, Weapon
+0 !KEYWORDS bionicle, BrickLink 60932cx1, Karda Nui, Midak Skyblaster, Phantoka
+0 !KEYWORDS Rebrickable 62233, Shooter, Weapon
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
 
 
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 60932.dat

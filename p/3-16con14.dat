@@ -1,10 +1,13 @@
 0 Cone 14 x 0.1875
 0 Name: 3-16con14.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Primitive UPDATE 2024-04
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-05-28 [OrionP] Official Update 2024-04
+
 
 4 16 14 1 0 12.9346 1 5.3578 13.8585 0 5.7405 15 0 0
 4 16 12.9346 1 5.3578 9.8994 1 9.8994 10.6065 0 10.6065 13.8585 0 5.7405

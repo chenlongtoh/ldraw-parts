@@ -1,10 +1,13 @@
 0 ~Plate  2 x  2 with Rotary Shaft and Thread, Thread Half
 0 Name: s\50407s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-09
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
+
 
 2 24 -9.7503 0 -.6945 -10.4862 0 0
 2 24 -10.4862 0 0 -11.2801 0 .886

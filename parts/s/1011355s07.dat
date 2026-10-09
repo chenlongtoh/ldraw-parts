@@ -1,10 +1,12 @@
 0 ~Figure Friends Man Torso Outer Mold Lines/Conditional Lines Half
 0 Name: s\1011355s07.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 2 24 1.5308 -5.5 -3.4956 0 -5.3 -3.8
 2 24 0 17 -8.59 4.33 17 -8.06

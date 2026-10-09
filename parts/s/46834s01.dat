@@ -1,10 +1,13 @@
 0 ~Technic Clutch with Axle Connector Inner Side Tooth
 0 Name: s\46834s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2024-01
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-01-29 [OrionP] Official Update 2024-01
+
 
 2 24 -5.0611 -25.4453 1 -1.6971 -25.8882 1
 2 24 -4.5131 -25.114 1 -2.1406 -25.4263 1

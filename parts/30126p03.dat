@@ -2,17 +2,18 @@
 0 Name: 30126p03.dat
 0 Author: Philippe Hurbain [Philo]
 0 !LDRAW_ORG Part UPDATE 2017-01
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS feather, bald eagle, Wild West, Western, indian
-0 !KEYWORDS Series 15
+0 !KEYWORDS bald eagle, BrickLink 30126pb03, Feather, indian
+0 !KEYWORDS Rebrickable 30126pr0001, Series 15, Set 71011-5, western, wild west
 
 0 !CMDLINE -C15
 
 0 !HISTORY 2017-12-30 [PTadmin] Official Update 2017-01
+
 
 1 16 0 4 0 2 0 0 0 2 0 0 0 2 4-8sphe.dat
 1 16 0 0 0 2 0 0 0 4 0 0 0 2 4-4cyli.dat

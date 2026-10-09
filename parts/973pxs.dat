@@ -1,12 +1,14 @@
 0 Minifig Torso with Black Lines and Tail Pattern
 0 Name: 973pxs.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Adventure Time, Bricklink 973pb2484, Jake the Dog, Set 71246
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

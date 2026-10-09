@@ -1,15 +1,18 @@
-0 Minifig Sword Katana Short with Square Guard with Smooth Endcap
+0 Minifig Sword Wakizashi with Square Guard with Smooth Endcap
 0 Name: 5644.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-12
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
 
+0 !KEYWORDS Brickowl 702818, katana
+
 0 !HISTORY 2024-06-04 {LEGO Instructions App} Original part shape
 0 !HISTORY 2024-06-04 [GeraldLasser] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-12-25 [OrionP] Official Update 2025-12
 
 0 // Grip and Guard
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\21459s02.dat

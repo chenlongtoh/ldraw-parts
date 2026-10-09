@@ -1,10 +1,12 @@
 0 ~Figure Friends Girl/Boy/Woman Torso Outer Mold Common Geometry
 0 Name: s\1006030s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 0 BFC INVERTNEXT
 1 16 4 0 0 0 -8 0 0 0 2.5 -2.5 0 0 4-4cylo.dat

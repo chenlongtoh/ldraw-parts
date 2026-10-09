@@ -1,16 +1,18 @@
 0 Minifig Banjo with White Skin and Metallic Silver Strings Pattern
 0 Name: 80716p01.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 80716pb01, CMF, Rebrickable 80716pr0001, set 71033
+0 !CATEGORY Minifig Accessory
+0 !KEYWORDS Bricklink 80716pb01, CMF, Kermit, Rebrickable 80716pr0001, set 71033
 0 !KEYWORDS The Muppets
 
 0 !HISTORY 2024-02-04 {LEGO Instructions App} Original pattern shape
 0 !HISTORY 2024-05-05 [MagFors] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\80716s01.dat
 

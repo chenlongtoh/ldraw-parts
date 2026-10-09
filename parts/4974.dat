@@ -1,7 +1,13 @@
-0 FILE 4974.dat
-0 Tile 8 x 16 with Bottom Tubes, Smooth Surface
-0 Name:  4974.dat
-0 Author:  
-0 BL_Item_No 4974
+0 =Tile  8 x 16 Type 2
+0 Name: 4974.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LDRAW_ORG Part Alias UPDATE 2024-06
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Compared to 90498, 4974 has no injection point in the top center, so its surface is completely smooth
+
 0 BFC CERTIFY CCW
-1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 90498.dat
+
+0 !HISTORY 2024-07-29 [OrionP] Official Update 2024-06
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 90498.dat

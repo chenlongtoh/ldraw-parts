@@ -1,12 +1,13 @@
 0 Hi-Res Cylinder Cylinder Sloped 0.2292 Convex
 0 Name: 48\11-48cyls2.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_48_Primitive
+0 !LDRAW_ORG 48_Primitive UPDATE 2025-11
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2024-10-25 [GeraldLasser] Derived from 48\1-4cyls2 plus condline from 48\11-48cyli
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
 
 3 16 0 0 1 -.1305 .1305 .9914 -.1305 0 .9914
 4 16 -.1305 .1305 .9914 -.2588 .2588 .9659 -.2588 0 .9659 -.1305 0 .9914

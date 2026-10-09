@@ -1,7 +1,7 @@
 0 Minifig Leg Right with Dark Red Armour Scales, Gold Knee Pad and Toes Pattern
 0 Name: 3816cp0e.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
@@ -12,5 +12,7 @@
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 970c05pb11, Eris, Set 71232
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 3817cp0e.dat

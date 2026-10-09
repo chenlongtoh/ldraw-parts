@@ -1,13 +1,14 @@
-0 Minifig Head with Brown Hair, Eyelashes, and Lipstick Pattern
+0 Minifig Head Female with Brown Hair, Eyelashes, and Lipstick Pattern
 0 Name: 3626bpa6.dat
 0 Author: George Barnes [glbarnes]
-0 !LDRAW_ORG Part UPDATE 2018-01
+0 !LDRAW_ORG Part UPDATE 2024-07
 0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Adventurers, curly hair, face, female, Gail Storm, Pippen Read
-0 !KEYWORDS smile, Studios
+0 !KEYWORDS Adventurers, BrickLink 3626pa6, curly hair, face, Gail Storm
+0 !KEYWORDS Pippen Read, Rebrickable 3626bpr0098, Set 1271, set 5978, smile
+0 !KEYWORDS Studios
 
 0 !CMDLINE -c14
 
@@ -16,7 +17,10 @@
 0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
 0 !HISTORY 2017-10-30 [MagFors] bfc'd, adapted pattern
 0 !HISTORY 2018-01-30 [PTadmin] Official Update 2018-01
-
+0 !HISTORY 2023-11-06 [MagFors] Update description, added keywords
+0 !HISTORY 2023-11-19 [OrionP] Official Update 2023-06
+0 !HISTORY 2024-08-18 [Lego-Manfred] Bricklink reference corrected, Rebrickable reference added
+0 !HISTORY 2024-08-26 [OrionP] Official Update 2024-07
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs04.dat

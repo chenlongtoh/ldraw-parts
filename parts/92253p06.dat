@@ -1,7 +1,7 @@
 0 Figure Friends Legs with Trousers with White Shoes, Dark Blue Laces and Soles Pattern
 0 Name: 92253p06.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Hips Rotation point: Y=-47.4, Z=2.7
@@ -9,6 +9,8 @@
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 92253c00pb66, set 42621, Set 42639
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92252s01.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\92253s01.dat

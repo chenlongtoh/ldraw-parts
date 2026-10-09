@@ -1,10 +1,12 @@
 0 ~Minifig Torso with Black Lines and Tail Pattern - Half
 0 Name: s\973pxss01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-03-30 [OrionP] Official Update 2025-03
 
 4 0 -8.5 10.6 -10 -9.9 11.5 -10 -8.2 11 -10 -6.9 9.9 -10
 4 0 -6.9 9.9 -10 -8.2 11 -10 -6.3 10.4 -10 -5.1 9.3 -10

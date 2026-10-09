@@ -1,10 +1,12 @@
 0 ~Bracket  5 x  2 x  1.333 Common Geometry
 0 Name: s\79180s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2024-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 2 24 -20 32 -50 -20 32 10
 2 24 20 8 10 20 8 50

@@ -1,10 +1,12 @@
-0 ~Brick  4 x  4 x  1 Corner Round with Curved Top
+0 ~Brick  4 x  4 x  1 Corner Round with Curved Top - Half
 0 Name: s\5651s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 1 16 0 20 0 0 0 60 0 -60 0 -60 0 0 48\tm08o3333.dat
 1 16 0 0 0 0 0 60 0 -1 0 -60 0 0 48\1-8edge.dat
@@ -68,7 +70,6 @@
 4 16 0 24 -80 4 24 -76 14 24 -76 20.704 24 -77.272
 4 16 14 24 -76 14 24 -74.5351 19.6688 24 -73.4084 20.704 24 -77.272
 4 16 19.6688 20 -73.4084 19.6688 24 -73.4084 14 24 -74.5351 14 20 -74.5351
-0 // 1 16 0 24 0 0 0 64 0 -30 0 -64 0 0 48\1-8cyli.dat
 2 24 19.6688 24 -73.4084 14 24 -74.5351
 2 24 8.352 4 -63.4496 4 4 -63.7364
 4 16 4 24 -63.7364 8.352 24 -63.4496 8.352 4 -63.4496 4 4 -63.7364

@@ -1,10 +1,12 @@
 0 ~Figure Friends Man Torso Dark Azure and White Jacket with Silver Squares Pattern Half
 0 Name: s\1011355p01s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 4 15 -9.37 17 -4.91 -9.4273 16.6079 -4.8229 -9.6197 16.7823 -4.2387 -9.7371 17 -3.8606
 3 272 -12.5 4.9256 3.2207 -12.5 4.2426 4.2426 -12.0602 4.937 4.0133

@@ -2,9 +2,11 @@
 0 Name: 3048b.dat
 0 Author: James Jessiman
 0 !LDRAW_ORG Part UPDATE 2015-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 3048c
 
 0 !HISTORY 1998-06-20 [PTadmin] Official Update 1998-06
 0 !HISTORY 2002-09-13 [izanette] Modified with WINDZ for BFC compliance
@@ -15,6 +17,7 @@
 0 !HISTORY 2015-10-18 [PTadmin] Renamed from 3048
 0 !HISTORY 2015-10-20 [MMR1988] Used more primitives
 0 !HISTORY 2015-12-30 [PTadmin] Official Update 2015-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 3048a.dat
 

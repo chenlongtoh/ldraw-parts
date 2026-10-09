@@ -1,12 +1,14 @@
 0 Logo Chevrolet Icon
 0 Name: logo-chevrolet-icon.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Primitive
+0 !LDRAW_ORG Primitive UPDATE 2024-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Exact dimensions X = 28.5; Z = 18.5
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-09-30 [OrionP] Official Update 2024-08
 
 0 // Fillin of the cross
 4 14 -3.6563 0 1.6722 3.6563 0 1.6722 3.6563 0 3.725 -3.6563 0 3.725

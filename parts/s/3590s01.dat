@@ -1,10 +1,12 @@
 0 ~Technic Gear 12 Tooth with Clutch - Tooth
 0 Name: s\3590s01.dat
 0 Author: Jens Brühl [jb70]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2024-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 2 24 1.534 -16.333 4.75 .714 -17.123 4.75
 2 24 1.534 -16.333 -4.75 .714 -17.123 -4.75

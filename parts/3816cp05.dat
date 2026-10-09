@@ -1,7 +1,7 @@
 0 Minifig Leg Right with Dark Red Sash and Medium Nougat Knee Pad Pattern
 0 Name: 3816cp05.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2026-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
@@ -11,8 +11,11 @@
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Minifig Leg
 0 !KEYWORDS Bricklink 970c00pb0375, Kai, Ninjago, Set 70745, Set 70750
 0 !KEYWORDS Set 71207
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
 
 1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\3817cs01.dat
 

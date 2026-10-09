@@ -1,10 +1,12 @@
 0 ~Plate  1 x  2 with Black and Medium Blue Mechanical Eyes Pattern - Half
 0 Name: s\3023bp00s01.dat
 0 Author: Vincent Messenet [Cheenzo]
-0 !LDRAW_ORG Unofficial_Subpart 
+0 !LDRAW_ORG Subpart UPDATE 2024-05
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-06-30 [OrionP] Official Update 2024-05
 
 
 3 73 -16.3 2.25 -10 -17.75 3.4 -10 -16.75 4.8 -10

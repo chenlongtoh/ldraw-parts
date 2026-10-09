@@ -1,14 +1,16 @@
 0 Minifig Head Moustache Curly and Full, Plain Eyebrows Pattern
 0 Name: 3626bp7f.dat
 0 Author: Chris Böhnke [KnightOfTarenta]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 3626bpb0083, Brickowl 876118, city center, dacta, Fire, Fire Chief
+0 !KEYWORDS Bricklink 3626pb0083, city center, dacta, Fire, Fire Chief
 0 !KEYWORDS fire fighter, Rebrickable 3626bpr0096, Set 1248, Set 6407, Set 6464
 0 !KEYWORDS Set 6525, Set 6554, Set 6571, set 9293, town, Town Junior
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 0 // Base Part
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3626bs02.dat

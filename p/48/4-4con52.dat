@@ -1,10 +1,13 @@
 0 Hi-Res Cone 52 x 1.0
 0 Name: 48\4-4con52.dat
 0 Author: Michael Heidemann [mikeheide]
-0 !LDRAW_ORG Unofficial_48_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG 48_Primitive UPDATE 2023-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-04-17 [OrionP] Official Update 2023-02
+
 
 4 16 52 1 0 51.5528 1 6.786 52.5442 0 6.9165 53 0 0
 4 16 51.5528 1 6.786 50.2268 1 13.4576 51.1927 0 13.7164 52.5442 0 6.9165

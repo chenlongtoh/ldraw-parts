@@ -1,10 +1,12 @@
 0 ~Figure Friends Girl Torso Outer Mold Lines/Conditional Lines Half
 0 Name: s\1006030s07.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 2 24 3.6956 -5.948 -1.3308 2.8284 -5.2757 -2.6284
 2 24 2.8284 -5.6977 3.0284 3.6956 -6.189 1.7308

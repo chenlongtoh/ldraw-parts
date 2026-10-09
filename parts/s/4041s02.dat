@@ -1,10 +1,12 @@
 0 ~Panel  4 x  4 x  3 Corner Round Half
 0 Name: s\4041s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2023-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2023-12-31 [OrionP] Official Update 2023-07
 
 0 BFC INVERTNEXT
 1 16 0 4 0 76 0 0 0 60 0 0 0 -76 48\1-8cylo.dat

@@ -1,10 +1,15 @@
 0 Panel  1 x  2 x  2 Hollow Stud with Round Window Opening
 0 Name: 7276.dat
 0 Author: Rene Rechthaler [Blechtaler]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2026-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !CATEGORY Panel
+0 !KEYWORDS Brickowl 1292149
+
+0 !HISTORY 2026-07-30 [OrionP] Official Update 2026-07
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 stug2-1x2.dat
 

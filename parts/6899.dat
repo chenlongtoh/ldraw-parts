@@ -1,16 +1,18 @@
-0 Minifig Antennae
+0 Minifig Antenna
 0 Name: 6899.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-11
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Minifig Headwear
-0 !KEYWORDS Alien, Eye, Snail
+0 !CATEGORY Minifig Accessory
+
+0 !KEYWORDS Alien, Antennae, Brickowl 1139138, Eye, Snail
 
 0 !HISTORY 2025-07-07 {LEGO Instructions App} Original part shape
 0 !HISTORY 2025-07-07 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
 
 1 16 0 5 0 2 0 0 0 -5 0 0 0 2 4-4cylc.dat
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\6899s01.dat

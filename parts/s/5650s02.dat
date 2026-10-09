@@ -1,10 +1,12 @@
 0 ~Wheel Rim 20 x 30 with  5 Holes Half
 0 Name: s\5650s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2024-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 3 16 0 -30.78 -7.2 -0.0001 -29.2267 -4.3395 4.0168 -30.5153 -7.2
 3 16 4.0168 -30.5153 -7.2 -0.0001 -29.2267 -4.3395 4.0032 -28.7276 -4.0665

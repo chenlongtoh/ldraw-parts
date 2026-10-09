@@ -1,15 +1,16 @@
 0 Slope Brick 31  1 x  2 x  0.667 with Black Tiger Stripes Pattern
 0 Name: 85984p00.dat
 0 Author: Paweł Turalski [C3technic]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS animal, BrickLink 85984pb340, BrickOwl 1381943, Creator 3in1
+0 !KEYWORDS animal, BrickLink 85984pb340, Creator 3in1, Rebrickable 85984pr0029
 0 !KEYWORDS Set 31129
 
 0 !HISTORY 2023-10-03 [MagFors] Adapted to use subfile
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\85984s01.dat
 4 0 12 -15.6 9.333 19.506 -14.781 7.969 19.41 -15.01 8.35 18 -15.6 9.333

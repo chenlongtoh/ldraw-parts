@@ -1,10 +1,13 @@
 0 Cone 11 x 0.3125
 0 Name: 5-16con11.dat
 0 Author: Ulrich Röder [UR]
-0 !LDRAW_ORG Unofficial_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Primitive UPDATE 2024-03
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2024-04-28 [OrionP] Official Update 2024-03
+
 
 4 16 11 1 0 10.1629 1 4.2097 11.0868 0 4.5924 12 0 0
 4 16 10.1629 1 4.2097 7.7781 1 7.7781 8.4852 0 8.4852 11.0868 0 4.5924

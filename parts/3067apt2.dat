@@ -6,6 +6,8 @@
 
 0 BFC CERTIFY CCW
 
+0 !KEYWORDS BrickLink crssprt02pb08, Rebrickable 3009apr0018, Set 1309
+
 0 !HISTORY 2004-11-07 [mikeheide] changed subpart to 3067s01
 0 !HISTORY 2005-01-07 [mikeheide] fixed gap again
 0 !HISTORY 2009-09-03 [PTadmin] Official Update 2009-02
@@ -228,6 +230,6 @@
 3 16 53.5 15.25 -10 51.75 18.5 -10 60 24 -10
 3 16 60 0 -10 53.5 15.25 -10 60 24 -10
 0
-0 Pattern created wholly or in part by Quad2Dat
-0 Thanks James
+0 // Pattern created wholly or in part by Quad2Dat
+0 // Thanks James
 0

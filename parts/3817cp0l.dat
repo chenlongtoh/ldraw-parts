@@ -1,7 +1,7 @@
 0 Minifig Leg Left with Nougat Leg and Silver Rimmed Boot Pattern
 0 Name: 3817cp0l.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move down 12 units to align with hips
@@ -11,8 +11,10 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 970c00pb0733, Brickowl 774346, Rebrickable 970c09pr1389
-0 !KEYWORDS Set 71287, Starfire
+0 !KEYWORDS Bricklink 970c00pb0733, Brickowl 774346, Dimensions
+0 !KEYWORDS Rebrickable 970c09pr1389, Set 71287, Starfire, Teen Titans Go
+
+0 !HISTORY 2025-10-27 [OrionP] Official Update 2025-10
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3817cs01.dat
 4 16 1.25 20 -11.25 18.978 20 -11.25 18.978 20 -5.75 1.25 20 -5.75

@@ -1,10 +1,12 @@
 0 ~Vehicle Chassis  2 x  6 with Axle Protrusion Half
 0 Name: s\6920s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 1 16 0 10 0 0 -20 0 -10 0 0 0 0 10 3-8cylo.dat
 1 16 -20 10 0 0 1 0 -6 0 0 0 0 6 7-16ndis.dat

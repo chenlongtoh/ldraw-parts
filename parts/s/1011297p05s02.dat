@@ -1,10 +1,12 @@
 0 ~Figure Friends Woman Torso with Medium Lavender Open Vest over Gold Top, Silver Buckle and Necklace Back Half Pattern
 0 Name: s\1011297p05s02.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 4 16 4.6 -4.1 4.3 5.4 -5.7 2.3 6.4369 -4.5594 3.2332 5.8543 -3.8312 4.2104
 3 16 6.7284 -5.2379 2.2422 6.4369 -4.5594 3.2332 5.4 -5.7 2.3

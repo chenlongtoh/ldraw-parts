@@ -1,10 +1,12 @@
 0 Mixed-Mode Torus Outside  1 x 0.1765 x 0.125
 0 Name: 48\tm08o1765.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_48_Primitive
+0 !LDRAW_ORG 48_Primitive UPDATE 2025-11
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-11-30 [OrionP] Official Update 2025-11
 
 0 // Major Radius: 17
 0 // Tube(Minor) Radius: 3

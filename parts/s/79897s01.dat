@@ -1,10 +1,12 @@
 0 ~Slope Brick Curved  2 x  4 x  0.667 with Fin and 4 Studs and 2 Hollow Studs on Sides - Side
 0 Name: s\79897s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 0 // Side Extensions
 3 16 20 16 -60 24 16 -60 20 11 -60

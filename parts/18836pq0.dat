@@ -2,14 +2,16 @@
 0 Name: 18836pq0.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Part UPDATE 2018-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Minifig Accessory
-0 !KEYWORDS Collectible Minifigures, Series 13, Egyptian Warrior, Upside Down
+0 !KEYWORDS BrickLink 18836pb01, Collectible Minifigures, Egyptian Warrior
+0 !KEYWORDS Rebrickable 18836pr0003, Series 13, Set 71008-17, Upside Down
 
 0 !HISTORY 2018-12-08 [PTadmin] Official Update 2018-02
+
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\18836s01.dat
 

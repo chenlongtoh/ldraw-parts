@@ -1,7 +1,7 @@
 0 Minifig Hips and Legs with Clockwork Robot Pattern
 0 Name: 73200bpc67.dat
 0 Author: Magnus Forsberg [MagFors]
-0 !LDRAW_ORG Unofficial_Shortcut
+0 !LDRAW_ORG Shortcut UPDATE 2023-03
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 !HELP Move at z=1.25 relative to stud grid
@@ -10,8 +10,8 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Brickowl 347081, CMF, Collectible Minifigures
-0 !KEYWORDS Rebrickable 970c14pr0288, Series 6, set 8827, Bricklink 970c86pb03
+0 !KEYWORDS Bricklink 970c86pb03, CMF, Collectible Minifigures
+0 !KEYWORDS Rebrickable 970c14pr0288, Series 6, set 8827
 
 0 !CMDLINE -c71
 
@@ -20,8 +20,8 @@
 0 !HISTORY 2020-12-29 [PTadmin] Official Update 2020-03
 0 !HISTORY 2023-06-02 [MagFors] Adapted to c-version leg
 0 !HISTORY 2023-06-24 [OrionP] Official Update 2023-03
-0 !HISTORY 2024-09-01 [BLStudio] Adapted to BL Known Colors
 
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bpc67.dat
-1 71 0 12 0 1 0 0 0 1 0 0 0 1 3816cpc67.dat
-1 71 0 12 0 1 0 0 0 1 0 0 0 1 3817cpc67.dat
+
+1 322 0 0 0 1 0 0 0 1 0 0 0 1 3815bpc67.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpc67.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpc67.dat

@@ -1,7 +1,7 @@
 0 Bar 0.5L with Curved Leaf 2L
 0 Name: 88964.dat
 0 Author: Jeff Jones [notmaster]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-09
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -10,6 +10,7 @@
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2024-07-04 [notmaster] File preparation for LDraw Parts Tracker
+0 !HISTORY 2025-09-29 [OrionP] Official Update 2025-09
 
 1 16 0 0 0 -4 0 0 0 -10 0 0 0 4 4-4cylc.dat
 4 16 3.463 -10 5.522 4.132 -10 3.19 -3.543 -10 -2.504 -4.115 -10 .46

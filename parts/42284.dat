@@ -2,9 +2,11 @@
 0 Name: 42284.dat
 0 Author: El'dar Ismagilov [Eldar]
 0 !LDRAW_ORG Part UPDATE 2013-02
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !KEYWORDS BrickLink 30293, Rebrickable 30293
 
 0 !HISTORY 2009-10-13 {LEGO Universe Team} Original part shape
 0 !HISTORY 2009-11-07 [Eldar] File preparation for LDraw Parts Tracker
@@ -13,6 +15,7 @@
 0 !HISTORY 2012-03-30 [PTadmin] Official Update 2012-01
 0 !HISTORY 2013-06-30 [PTadmin] Renamed from 30293
 0 !HISTORY 2013-12-23 [PTadmin] Official Update 2013-02
+
 
 1 16 0 4 0 1 0 0 0 -1 0 0 0 -1 stud4.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 stug-2x2.dat

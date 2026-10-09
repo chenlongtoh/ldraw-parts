@@ -1,12 +1,15 @@
-0 Minifig Torso with Yellow and Red Belt, Female Outline and Superman Logo Pattern
+0 Minifig Torso with Female Outline, Yellow and Red Belt and Superman Logo Pattern
 0 Name: 973pxv.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS Bricklink 973pb1837, Set 71340, set 76040, Supergirl
+0 !KEYWORDS Bricklink 973pb1837, Rebrickable 973c28h02pr2941, Set 71340
+0 !KEYWORDS set 76040, Supergirl
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat

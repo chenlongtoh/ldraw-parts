@@ -1,12 +1,14 @@
 0 ~Wheel Rim 41 x 75 with  10 Spokes and  3 Pins 1/4
 0 Name: s\5428s03.dat
 0 Author: Jens Brühl [jb70]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2024-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS 75 x 41, McLaren, P1, set 42172
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 4 16 0 -84.6 80 0 -94 80 12.267 -93.1916 80 10.60292 -83.93251 80
 4 16 10.60292 -83.93251 80 12.267 -93.1916 80 24.3272 -90.7946 80 21.03884 -81.94177 80

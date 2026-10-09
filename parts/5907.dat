@@ -1,12 +1,12 @@
-0 Slope Brick Curved  2 x  1 x 1.667
+0 Brick  2 x  1 x 1.667 with Curved Top
 0 Name: 5907.dat
 0 Author: Gerald Lasser [GeraldLasser]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2024-09
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
-0 !CATEGORY Brick
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 4 16 6 40 -26 10 40 -30 -10 40 -30 -6 40 -26
 4 16 -10 40 -30 -10 40 -10 -6 40 -14 -6 40 -26

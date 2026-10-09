@@ -1,10 +1,12 @@
-0 ~Minifig Torso with Red Ovals, Red and Yellow Amulet and Female Outline Pattern - Half
+0 ~Minifig Torso with Female Outline with Red Ovals, Red and Yellow Amulet Pattern - Half
 0 Name: s\973pxws01.dat
 0 Author: Evert-Jan Boer [ejboer]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 4 0 0 4.4 -10 0 3.65 -10 -.2 3.65 -10 -.4 3.75 -10
 4 0 0 4.4 -10 -.4 3.75 -10 -1.9 6.5 -10 -1.2 6.4 -10

@@ -1,10 +1,12 @@
 0 ~Figure Friends Girl Torso Outer Mold Dark Turquoise Jacket with Tan Triangles over Dark Blue Shirt Side Pattern
 0 Name: s\1006030p01s01.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-08
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-08-31 [OrionP] Official Update 2025-08
 
 3 3 9.61 17 2.82 9.5057 14.4025 2.8866 10.45 17 1.12
 3 3 10.271 14.5436 0.3355 9.4393 12.0859 2.7338 10.0245 12.3796 -0.0665

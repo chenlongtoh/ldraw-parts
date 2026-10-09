@@ -1,12 +1,14 @@
 0 ~Ladder Holder  2 x  6 Bump
 0 Name: s\87913s01.dat
 0 Author: Max Martin Richter [MMR1988]
-0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LDRAW_ORG Subpart UPDATE 2023-05
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2013-11-03 [MMR1988] Creation
+0 !HISTORY 2023-10-31 [OrionP] Official Update 2023-05
+
 
 4 16 -4.28837 -0.01665 4.08236 4.28837 -0.01665 4.08236 4.33304 0 4.10727 -4.33304 0 4.10727
 4 16 3.47991 -0.16693 3.85749 4.28837 -0.01665 4.08236 -4.28837 -0.01665 4.08236 -3.47991 -0.16693 3.85749

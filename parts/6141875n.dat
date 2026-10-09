@@ -1,12 +1,14 @@
 0 Sticker  0.9 x  1.8 with Dark Bluish Grey Ford Badge with Stripes on Light Grey Background
 0 Name: 6141875n.dat
 0 Author: Massimo Maso [Sirio]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2024-10
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS F-150, Hot Rod, Model A, Raptor, Set 75875, Speed Champions
+
+0 !HISTORY 2024-12-01 [OrionP] Official Update 2024-10
 
 0 // Logo primitives
 1 72 0 -.25 0 1.3 0 0 0 1 0 0 0 1.3 logo-ford-oval.dat

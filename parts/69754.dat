@@ -1,7 +1,7 @@
-0 Projectile Launcher with Plate  1 x  2
+0 Plate  1 x  2 with Mini Shooting Blaster Type 2
 0 Name: 69754.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Part 
+0 !LDRAW_ORG Part UPDATE 2024-09
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
@@ -11,6 +11,7 @@
 
 0 !HISTORY 2022-10-08 {LEGO Instructions App} Original part shape
 0 !HISTORY 2022-10-11 [Philo] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-10-27 [OrionP] Official Update 2024-09
 
 
 1 16 0 0 10 0 0 -1 0 1 0 1 0 0 stud.dat

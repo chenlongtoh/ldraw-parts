@@ -1,10 +1,12 @@
 0 ~Figure Friends Man Torso Outer Mold Back Half
 0 Name: s\1011355s05.dat
 0 Author: Philippe Hurbain [Philo]
-0 !LDRAW_ORG Unofficial_Subpart
+0 !LDRAW_ORG Subpart UPDATE 2025-07
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !HISTORY 2025-07-27 [OrionP] Official Update 2025-07
 
 3 16 2.9 -4.8 4.5 0 -3.8 5.3 0 -5.7 4.2
 3 16 2.9 -4.8 4.5 0 -5.7 4.2 1.5308 -6 3.8956

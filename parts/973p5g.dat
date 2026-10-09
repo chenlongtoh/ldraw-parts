@@ -1,13 +1,15 @@
-0 Minifig Torso with Space Exploriens Logo and Radio, Light Gray Stripe, Yellow Buttons, Black Belt Pattern
+0 Minifig Torso with Space Exploriens Logo and Radio, Light Grey Stripe, Yellow Buttons, Black Belt Pattern
 0 Name: 973p5g.dat
 0 Author: Chris Böhnke [KnightOfTarenta]
-0 !LDRAW_ORG Unofficial_Part
+0 !LDRAW_ORG Part UPDATE 2025-02
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !KEYWORDS Bricklink 973pb0004, Brickowl 144700-92, Explorien, Exploriens
 0 !KEYWORDS Set 1737, Set 6856, Set 6899, Set 6938, set 6958, set 6982, Space
+
+0 !HISTORY 2025-02-27 [OrionP] Official Update 2025-02
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
 4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
