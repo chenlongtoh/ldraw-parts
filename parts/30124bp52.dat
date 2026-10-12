@@ -1,0 +1,22 @@
+0 Minifig Helmet Standard with Metallic Gold Blacktron I Logo Pattern
+0 Name: 30124bp52.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP place visor at y= 8 z= 0.7
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS BrickLink 2446pb63, crash helmet, full face
+0 !KEYWORDS LEGO Minifigure: A Visual History, motorcycle helmet, promotional
+0 !KEYWORDS Rebrickable 2446pr0069, Set b25other06, Space, space helmet
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bp52s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30124bp52s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bs04.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30124bs04.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\30124bs05.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\30124bs05.dat

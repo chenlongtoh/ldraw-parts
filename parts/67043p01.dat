@@ -1,0 +1,16 @@
+0 Minifig Hat Tricorne Black with Long Hair with Ponytail
+0 Name: 67043p01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Plume hole at 10.25 -9 7.25
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Headwear
+0 !KEYWORDS Bandmates, Bricklink 67043pb01, CMF, Colour Combination, DJ Captain
+0 !KEYWORDS Pirate Girl, Set 10320, Set 31387, Set 43220, Set 60397
+
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 s\67043s01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\67043s02.dat

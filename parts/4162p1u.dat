@@ -1,4 +1,4 @@
-0 Tile 1 x 8 with Japanese "姫路城" (Himeji Castle) Pattern
+0 Tile  1 x  8 with Japanese "姫路城" (Himeji Castle) Pattern
 0 Name: 4162p1u.dat
 0 Author: N. W. Perry [Plastikean]
 0 !LDRAW_ORG Unofficial_Part
@@ -6,6 +6,7 @@
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Tile
 0 !KEYWORDS Architecture, Bricklink 4162pb288, Japan, Rebrickable 4162pr0100
 0 !KEYWORDS set 21060
 

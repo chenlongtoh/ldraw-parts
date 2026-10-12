@@ -1,0 +1,33 @@
+0 Sticker  0.8 x  1.8 with White "POLICE" on Blue Background
+0 Name: 4599943f.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 7286stk01, Brickowl 200411, Police car, Prisoner transport
+0 !KEYWORDS Rebrickable 93164, Set 7286, Vehicle
+
+0 !HISTORY 2023-12-01 [RainbowDolphin] Created based on 3069bp17 by Massimo Maso [Sirio]
+0 !HISTORY 2026-09-04 [Sirio] Introduced logo primitive and stickerback; reduced length; added rounded corners
+
+0 // Stickerback
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x018.dat
+0 // Logo primitives
+1 15 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-police-text-01.dat
+1 1 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-police-text-outerbox-01.dat
+0 // Primitives
+1 1 -16.5 -.25 6.5 -1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 1 16.5 -.25 6.5 1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 1 -16.5 -.25 -6.5 -1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+1 1 16.5 -.25 -6.5 1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+0 // Top face
+0 // Blue faces
+4 1 -18 -.25 6.5 18 -.25 6.5 16.5 -.25 8 -16.5 -.25 8
+4 1 -18 -.25 6.5 -16 -.25 4.6 16 -.25 4.6 18 -.25 6.5
+4 1 -18 -.25 6.5 -18 -.25 -6.5 -16 -.25 -4.6 -16 -.25 4.6
+4 1 18 -.25 -6.5 18 -.25 6.5 16 -.25 4.6 16 -.25 -4.6
+4 1 18 -.25 -6.5 16 -.25 -4.6 -16 -.25 -4.6 -18 -.25 -6.5
+4 1 18 -.25 -6.5 -18 -.25 -6.5 -16.5 -.25 -8 16.5 -.25 -8

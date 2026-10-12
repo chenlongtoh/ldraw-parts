@@ -2,9 +2,10 @@
 0 Name: stud12s.dat
 0 Author: Michael Heidemann [mikeheide]
 0 !LDRAW_ORG Unofficial_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 
 2 24 0 0 -1.414 0 -2 -1.414
 2 24 1.414 0 0 1.414 -1.5625 0

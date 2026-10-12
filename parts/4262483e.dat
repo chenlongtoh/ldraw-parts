@@ -1,0 +1,36 @@
+0 Sticker  1.5 x  1.0 with Fire Logo
+0 Name: 4262483e.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS BrickLink 7239stk01, Brickowl 308837, Fire engine, Ladder truck
+0 !KEYWORDS Rebrickable 52888, Set 7239, Trailer
+
+0 !HISTORY 2026-10-09 [Holly-Wood] Used logo prim
+
+1 16 0 -0.25 0 10 0 0 0 0.25 0 0 0 15 box5-12.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-outer-box.dat
+3 16 8.3 -.25 11 10 -.25 15 7.3 -.25 11
+3 16 7.3 -.25 11 10 -.25 15 0 -.25 11
+3 16 10 -.25 15 8.3 -.25 11 8.3 -.25 .5525
+4 16 8.3 -.25 -11 10 -.25 -15 10 -.25 15 8.3 -.25 .5525
+3 16 10 -.25 -15 8.3 -.25 -11 0 -.25 -11
+
+3 16 -10 -.25 15 -8.3 -.25 11 -7.3 -.25 11
+3 16 -8.3 -.25 .5525 -8.3 -.25 11 -10 -.25 15
+4 16 -10 -.25 15 -10 -.25 -15 -8.3 -.25 -11 -8.3 -.25 .5525
+4 16 10 -.25 -15 0 -.25 -11 -8.3 -.25 -11 -10 -.25 -15
+
+4 16 -7.3 -.25 11 0 -.25 11 10 -.25 15 -10 -.25 15
+
+0 BFC NOCLIP
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire.dat
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-outer-box.dat
+
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-inner-box.dat
+1 4 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-inner-border.dat
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-outer-border.dat

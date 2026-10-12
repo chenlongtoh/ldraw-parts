@@ -1,0 +1,20 @@
+0 Minifig Hips and Legs with Long Medium Lilac Vest with Dark Tan Leg Pattern
+0 Name: 73200bp10.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bp30.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Lower
+0 !KEYWORDS Bricklink 970d35pb01, Brickowl 945375, Brickset 29765, Ideas
+0 !KEYWORDS Paul McCartney, Rebrickable 970l11r26pr1193, set 21306, The Beatles
+0 !KEYWORDS yellow submarine
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bp10.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cp10.dat
+1 28 0 12 0 1 0 0 0 1 0 0 0 1 3817cp10.dat

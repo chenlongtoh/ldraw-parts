@@ -16,6 +16,13 @@
  * Our own parts live in custom_parts/ (same layout as parts/, e.g. custom_parts/s/)
  * and are looked up by id exactly like parts/ files. A custom id that also exists
  * in parts/, p/ or models/ fails the build rather than silently hiding either file.
+ *
+ * studio/ holds Studio's own parts (written by ldraw-library-sync): studio/parts/x.dat
+ * is published under the key `studio:x.dat`, kept apart from the LDraw part of the
+ * same id. Studio files no LDraw file claims also get their plain key, so a plain lookup
+ * still finds them. A primitive that only exists in high detail (p/48/, then p/8/) is
+ * also reachable by its plain name, the way Studio resolves it. studio-map.json (the
+ * Studio part mapping table) publishes as-is.
  */
 import { createHash } from 'node:crypto'
 import { execSync } from 'node:child_process'
@@ -28,8 +35,10 @@ const HASH_LENGTH = 8
 // three's LDrawLoader search order; the first folder wins a name clash.
 const FOLDERS = ['parts', 'p', 'models']
 const CUSTOM_FOLDER = 'custom_parts'
-const ALL_FOLDERS = [...FOLDERS, CUSTOM_FOLDER]
+const STUDIO_FOLDER = 'studio'
+const ALL_FOLDERS = [...FOLDERS, CUSTOM_FOLDER, STUDIO_FOLDER]
 const FILE_RE = /\.(?:dat|ldr|mpd|png)$/i
+const ROOT_DATA_FILES = new Set(['studio-map.json'])
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const args = process.argv.slice(2)
@@ -59,7 +68,7 @@ function* libraryFiles() {
     }
   }
   for (const entry of fs.readdirSync(root, { withFileTypes: true })) {
-    if (entry.isFile() && FILE_RE.test(entry.name)) yield entry.name
+    if (entry.isFile() && (FILE_RE.test(entry.name) || ROOT_DATA_FILES.has(entry.name))) yield entry.name
   }
 }
 
@@ -67,6 +76,11 @@ function* libraryFiles() {
 function locate(relPath) {
   const lower = relPath.toLowerCase()
   const folder = ALL_FOLDERS.find((name) => lower.startsWith(`${name}/`)) ?? ''
+  if (folder === STUDIO_FOLDER) {
+    // studio/<parts|p|models>/<key> → studio:<key>
+    const inner = locate(lower.slice(folder.length + 1))
+    return { folder, key: `studio:${inner.key}`, plainKey: inner.key }
+  }
   return { folder, key: folder ? lower.slice(folder.length + 1) : lower }
 }
 
@@ -94,6 +108,30 @@ for (const relPath of libraryFiles()) {
   }
   pathByKey.set(key, relPath)
   entries.push({ relPath, folder, key })
+}
+
+// Plain primitive names fall back to the high-detail copy when there is no standard one.
+for (const detail of ['48/', '8/']) {
+  for (const entry of [...entries]) {
+    if (!entry.key.startsWith(detail) || entry.folder !== 'p') continue
+    const plainKey = entry.key.slice(detail.length)
+    if (pathByKey.has(plainKey) || plainKey.includes('/')) continue
+    pathByKey.set(plainKey, entry.relPath)
+    entries.push({ relPath: entry.relPath, folder: entry.folder, key: plainKey })
+  }
+}
+
+// Studio files no LDraw file claims are also reachable by their plain key.
+for (const entry of [...entries]) {
+  const { plainKey } = locate(entry.relPath)
+  if (!plainKey) continue
+  const earlier = pathByKey.get(plainKey)
+  if (earlier) {
+    if (locate(earlier).folder === CUSTOM_FOLDER) customClashes.push(`${entry.relPath} (same id as ${earlier})`)
+    continue
+  }
+  pathByKey.set(plainKey, entry.relPath)
+  entries.push({ relPath: entry.relPath, folder: STUDIO_FOLDER, key: plainKey })
 }
 
 if (customClashes.length > 0) {

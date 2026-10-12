@@ -1,10 +1,12 @@
-0 Wheel 6 x 56 with Center Axle Hole, 6 Pin Holes, Curved Spokes
+0 Wheel  6 x 56 with Center Axle Hole, 6 Pin Holes, Curved Spokes
 0 Name: 7230.dat
 0 Author: Rene Rechthaler [Blechtaler]
 0 !LDRAW_ORG Unofficial_Part
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
 
 0 !HISTORY 2025-08-01 {LEGO Instructions App} Original part shape
 0 !HISTORY 2025-08-15 [Blechtaler] File preparation for LDraw Parts Tracker

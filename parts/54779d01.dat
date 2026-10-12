@@ -1,0 +1,22 @@
+0 Boat Hull Floating 51 x 12 with Dark Bluish Grey Top with "POLICE 7287" and Life Preserver Stickers
+0 Name: 54779d01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Boat
+0 !KEYWORDS Bricklink 70670stk01, Brickowl 385606, City, Police boat
+0 !KEYWORDS Rebrickable 46481, Set 7287, ship
+
+0 !HISTORY 2026-10-08 [KnightOfTarenta] Changed Base Part to Full Assembly
+
+0 // Base Part
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 54779p02.dat
+
+0 // Stickers
+1 16 113.6409 39.75 100 0 -.9964 .0851 0 -.0851 -.9964 1 0 0 4599941b.dat
+1 16 -113.6409 39.75 100 0 .9964 -.0851 0 .0851 -.9964 -1 0 0 4599941a.dat
+1 16 113.9827 35.75 -320 0 -.9964 .0851 0 -.0851 -.9964 1 0 0 4599941f.dat
+1 16 -113.9827 35.75 -320 0 .9964 -.0851 0 .0851 -.9964 -1 0 0 4599941f.dat

@@ -2,9 +2,10 @@
 0 Name: s\53834s02.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
 
 0 // Adapter to Rail
 3 16 -101.5 8 -76 -104 8 -42 -104 8 -39
@@ -372,7 +373,7 @@
 1 16 -88 -5 -40 1.5 0 0 0 12.5 0 0 0 1.5 boxjcyl4.dat
 4 16 -90 7.5 -41.5 -92.5 7.5 -41.5 -92.5 7.5 -38.5 -90 7.5 -38.5
 
-0 // Step 2 
+0 // Step 2
 1 16 -80 -5 -49 0 0 1.5 0 12.5 0 -1 0 0 box3u8p.dat
 1 16 -78.5 1.25 -51.25 0 2.5 0 0 0 6.25 1.25 0 0 box4-2p.dat
 1 16 -82.75 5.75 -51.25 0 0 -1.25 0 1.75 0 -1.25 0 0 box3-5a.dat

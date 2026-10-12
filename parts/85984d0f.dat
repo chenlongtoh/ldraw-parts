@@ -7,7 +7,9 @@
 0 BFC CERTIFY CCW
 
 0 !CATEGORY Sticker Shortcut
-0 !KEYWORDS Bricklink 85984pb006, Cockpit, Police boat, Set 7287, ship
+0 !KEYWORDS Bricklink 85984pb006, City, Cockpit, Police boat, Set 7287, ship
+
+0 !HISTORY 2026-10-06 [Sirio] Reduced decimals
 
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 85984.dat
-1 16 0 -10 0 1 0 0 0 .857491 -.514499 0 .514499 .857491 4599941d.dat
+1 16 0 -10 0 1 0 0 0 .8575 -.5145 0 .5145 .8575 4599941d.dat

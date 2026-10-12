@@ -6,12 +6,13 @@
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Minifig Headwear
 0 !KEYWORDS Banshee Singer, Bellatrix Lestrange, Friends TV Series, Harry Potter
-0 !KEYWORDS Janice, set 10292, Set 43101, set 4840, Set 70349, Set 75980
-0 !KEYWORDS set 76415, set 76417, VIDIYO
+0 !KEYWORDS Janice, Nexo Knights, Ruina, set 10292, Set 43101, set 4840
+0 !KEYWORDS Set 70349, Set 75980, set 76415, set 76417, VIDIYO
 
 0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
-0 !HISTORY 2013-08-14 [Holly-Wood] File preparation for LDraw Parts Tracker
+0 !HISTORY 2024-05-15 [Holly-Wood] File preparation for LDraw Parts Tracker
 
 0 // Inside
 1 16 0 -4 0 1 0 0 0 -1 0 0 0 1 stud4a.dat

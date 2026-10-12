@@ -1,0 +1,19 @@
+0 Minifig Hips and Legs with Metallic Gold Blacktron I Logo and Metallic Silver Kneepads Pattern
+0 Name: 73200bpz0.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 !HELP Move at z=1.25 relative to stud grid
+0 !HELP 1 16 0 0 1.25 1 0 0 0 1 0 0 0 1 73200bpz0.dat
+0 !HELP 1 16 0 40 0 1 0 0 0 1 0 0 0 1 stug-1x2.dat
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Lower
+0 !KEYWORDS Bricklink 970c00pb1827, LEGO Minifigure: A Visual History
+0 !KEYWORDS promotional, Rebrickable 970c03pr0071, Set b25other06, Space
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815b.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpz0.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpz0.dat

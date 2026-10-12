@@ -2,11 +2,12 @@
 0 Name: s\53834s01.dat
 0 Author: Gerald Lasser [GeraldLasser]
 0 !LDRAW_ORG Unofficial_Subpart
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2020-06-14 [GeraldLasser] Derieved from s\53401s02 by Ronald Vallenduuk [Duq]
+
 
 0 // Inside
 0 BFC INVERTNEXT
@@ -354,7 +355,6 @@
 2 24 -128.268 -15.268 -49.646 -127.457 -15.81 -49.809
 2 24 -128.268 -15.268 -49.646 -128.81 -14.457 -49.538
 2 24 -128.81 -14.457 -49.538 -129 -13.5 -49.5
-
 
 3 16 -110 -11 53.1 -110 -2 53.1 -110 -2 57.5
 4 16 -110 -2 57.5 -110 -2 53.1 -100 -2 53.1 -100 -2 57.5

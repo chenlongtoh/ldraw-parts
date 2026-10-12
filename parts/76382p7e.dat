@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Hands with Vest over Dark Azure Shirt with Red and Yellow Wavy Striped Tie Pattern
+0 Name: 76382p7e.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Upper
+0 !KEYWORDS Bricklink 973pb2510c01, Brickowl 819123, Brickset 76382, Ideas
+0 !KEYWORDS Paul McCartney, Rebrickable 973c33h02pr3671, set 21306, The Beatles
+0 !KEYWORDS yellow submarine
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p7e.dat
+1 30 -15.552 9 0 .985 -.17 0 .17 .985 0 0 0 1 3818.dat
+1 30 15.552 9 0 .985 .17 0 -.17 .985 0 0 0 1 3819.dat
+1 78 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 78 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

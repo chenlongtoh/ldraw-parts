@@ -1,0 +1,19 @@
+0 Minifig Torso with Jacket with Dark Blue Vertical Stripes over Orange Collared Shirt and Lavender and Orange Tie Pattern
+0 Name: 973p7f.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Torso
+0 !KEYWORDS Ideas, Ringo Starr, set 21306, The Beatles, yellow submarine
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973p7fs01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\973p7fs01.dat
+3 31 .95 .84 -10 -.95 .84 -10 0 7.75 -10
+3 0 -.51 31.4 -10 .51 31.4 -10 0 29.59 -10
+4 16 .51 31.4 -10 -.51 31.4 -10 -19 32 -10 19 32 -10
+4 16 -.95 .84 -10 .95 .84 -10 12 0 -10 -12 0 -10

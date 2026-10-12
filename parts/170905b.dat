@@ -1,0 +1,22 @@
+0 Sticker  2.1 x  9.9 with Maersk Logo and Text
+0 Name: 170905b.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 1831.1stk01, Brickowl 207587, Maersk Line Container Lorry
+0 !KEYWORDS promotional, Rebrickable 170905a, Set 1831
+
+1 16 0 -0.25 0 99 0 0 0 0.25 0 0 0 21 box5-12.dat
+1 15 -80 -0.25 0 1.4 0 0 0 1 0 0 0 1.4 s\4616559ps1.dat
+1 15 21 -0.25 0 4 0 0 0 1 0 0 0 4 s\4616559ps2.dat
+4 15 -99 -0.25 21 -96.8 -0.25 17.78 -63.2 -0.25 17.78 99 -0.25 21
+4 15 99 -0.25 21 -63.2 -0.25 17.78 -55.4 -0.25 10.8 97 -0.25 10.8
+4 15 99 -0.25 21 97 -0.25 10.8 97 -0.25 -10.8 99 -0.25 -21
+4 15 99 -0.25 -21 97 -0.25 -10.8 -55.4 -0.25 -10.8 -63.2 -0.25 -17.78
+4 15 -63.2 -0.25 -17.78 -55.4 -0.25 -10.8 -55.4 -0.25 10.8 -63.2 -0.25 17.78
+4 15 -99 -0.25 -21 99 -0.25 -21 -63.2 -0.25 -17.78 -96.8 -0.25 -17.78
+4 15 -99 -0.25 -21 -96.8 -0.25 -17.78 -96.8 -0.25 17.78 -99 -0.25 21

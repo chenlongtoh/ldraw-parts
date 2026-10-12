@@ -1,0 +1,33 @@
+0 Sticker  0.8 x  4.1 with White "Bugatti" on Dark Azure Background
+0 Name: 6228775q.dat
+0 Author: Gabriel Läufer [Dr.Bricktacular]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Sticker
+0 !KEYWORDS Bricklink 42083stk01, Brickowl 885585, Bugatti Chiron, Lego Technic
+0 !KEYWORDS Rebrickable 38973, set 42083
+
+0 !HISTORY 2025-08-02 [jb70] Using stickerback subfile and logo primitives
+0 !HISTORY 2026-09-14 [Sirio] Changed reference stickerback; changed description; reduced connection to logo text
+
+0 // Stickerback
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\stickerback008x041.dat
+0 // Logo primtiives
+1 15 0 -.25 0 2.75 0 0 0 1 0 0 0 2.75 logo-bugatti-text.dat
+1 321 0 -.25 0 2.75 0 0 0 1 0 0 0 2.75 logo-bugatti-text-box.dat
+0 // Primitives
+1 321 -39.5 -.25 6.5 -1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 321 39.5 -.25 6.5 1.5 0 0 0 1 0 0 0 1.5 1-4chrd.dat
+1 321 -39.5 -.25 -6.5 -1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+1 321 39.5 -.25 -6.5 1.5 0 0 0 1 0 0 0 -1.5 1-4chrd.dat
+0 // Top face
+0 // Azure faces
+4 321 -39.5 -.25 8 -41 -.25 6.5 -41 -.25 -6.5 -39.5 -.25 -8
+4 321 -39.5 -.25 8 -39.5 -.25 -8 -15.7094 -.25 -3.4375 -15.7094 -.25 2.7844
+4 321 -39.5 -.25 8 -15.7094 -.25 2.7844 15.0906 -.25 2.7844 39.5 -.25 8
+4 321 39.5 -.25 -8 41 -.25 -6.5 41 -.25 6.5 39.5 -.25 8
+4 321 39.5 -.25 -8 39.5 -.25 8 15.0906 -.25 2.7844 15.0906 -.25 -3.4375
+4 321 39.5 -.25 -8 15.0906 -.25 -3.4375 -15.7094 -.25 -3.4375 -39.5 -.25 -8

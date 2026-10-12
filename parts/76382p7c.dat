@@ -1,0 +1,18 @@
+0 Minifig Torso with Arms and Hands with Jacket with Lime and Medium Lavender Fluffy Trim Pattern
+0 Name: 76382p7c.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Upper
+0 !KEYWORDS Bricklink 973pb2509c01, BrickOwl 21643, Brickset 76382, Ideas
+0 !KEYWORDS John Lennon, Rebrickable 973c03h02pr3670, set 21306, The Beatles
+0 !KEYWORDS yellow submarine
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973p7c.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 78 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 78 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat

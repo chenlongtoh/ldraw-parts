@@ -2,11 +2,12 @@
 0 Name: 3-8con24.dat
 0 Author: Steffen [Steffen]
 0 !LDRAW_ORG Unofficial_Primitive
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
 
 0 !HISTORY 2014-12-03 [MMR1988] rebuilt due to wrong condlines
+
 
 4 16 24 1 0 22.1736 1 9.1848 23.0975 0 9.5675 25 0 0
 4 16 22.1736 1 9.1848 16.9704 1 16.9704 17.6775 0 17.6775 23.0975 0 9.5675

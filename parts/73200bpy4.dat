@@ -6,11 +6,11 @@
 
 0 BFC CERTIFY CCW
 
-0 !KEYWORDS 2, 2017, Fiesta, Ford, M-Sport, Martin Järveoja, Ott Tänak, Race
+0 !CATEGORY Minifig
+0 !KEYWORDS 2, 2017, BrickLink 970c63pb13, Fiesta, Ford, M-Sport
+0 !KEYWORDS Martin Järveoja, Ott Tänak, Race, Rebrickable 970c05pr1476
 0 !KEYWORDS Set 75885, Speed Champions, sport, Uniform, WRC
 
-0 !HISTORY 2024-09-01 [BLStudio] Adapted to BL Known Colors
-
-1 16 0 0 0 1 0 0 0 1 0 0 0 1 3815bpy4.dat
-1 272 0 12 0 1 0 0 0 1 0 0 0 1 3816cpy4.dat
-1 272 0 12 0 1 0 0 0 1 0 0 0 1 3817cpy4.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 3815bpy4.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3816cpy4.dat
+1 16 0 12 0 1 0 0 0 1 0 0 0 1 3817cpy4.dat

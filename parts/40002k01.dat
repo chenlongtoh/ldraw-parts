@@ -6,6 +6,8 @@
 
 0 BFC CERTIFY CCW
 
+0 !CATEGORY Electric
+
 1 16 0 -20 0 -4 0 0 0 1 0 0 0 4 4-4edge.dat
 1 16 0 -20 0 -4 0 0 0 1 0 0 0 4 4-4disc.dat
 1 16 0 -20 0 -4 0 0 0 20 0 0 0 4 4-4cyli.dat

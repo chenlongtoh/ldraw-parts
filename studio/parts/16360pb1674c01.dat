@@ -1,0 +1,13 @@
+0 Torso Simpsons Plain with Slingshot Pattern / Yellow Arms with Molded Red Short Sleeves Pattern / Yellow Hands
+0 Name: 16360pb1674c01.dat
+0 Author:  [BLStudio]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pd12.dat
+1 14 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 studio:982pb027.dat
+1 14 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 studio:981pb027.dat
+1 14 -23.6904 26.774 -9.8982 0.985 -0.1202 0.1202 0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat
+1 14 23.6904 26.774 -9.8982 0.985 0.1202 -0.1202 -0.17 0.6964 -0.6964 0 0.707 0.707 3820.dat

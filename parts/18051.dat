@@ -1,10 +1,12 @@
-0 Vehicle Mudguard  3 x  4 x  1 1/3 with Curved Fenders
+0 Car Mudguard  3 x  4 x  1.333 with Curved Fenders
 0 Name: 18051.dat
 0 Author: Evert-Jan Boer [ejboer]
 0 !LDRAW_ORG Unofficial_Part
 0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
 
 0 BFC CERTIFY CCW
+
+0 !CATEGORY Vehicle
 
 0 !HISTORY 2016-03-18 {LEGO Digital Designer} Original part shape
 0 !HISTORY 2016-03-18 [ejboer] File preparation for LDraw Parts Tracker
