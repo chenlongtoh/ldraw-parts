@@ -48,6 +48,10 @@ jobs:
           aws s3 sync .library-dist/objects "$BUCKET/objects" --size-only --no-progress \
             --exclude '*' --include '*.png' \
             --content-type 'image/png' --cache-control "$IMMUTABLE"
+          # Data files the index lists (studio-map.json, the Studio part mapping table).
+          aws s3 sync .library-dist/objects "$BUCKET/objects" --size-only --no-progress \
+            --exclude '*' --include '*.json' \
+            --content-type 'application/json' --cache-control "$IMMUTABLE"
 
       - name: Upload index
         run: |
