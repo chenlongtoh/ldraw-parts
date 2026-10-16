@@ -13,7 +13,7 @@
 0 !HISTORY 2026-10-09 [Holly-Wood] Used logo prim
 
 1 16 0 -0.25 0 10 0 0 0 0.25 0 0 0 15 box5-12.dat
-1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-outer-box.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-outer-box-type1.dat
 3 16 8.3 -.25 11 10 -.25 15 7.3 -.25 11
 3 16 7.3 -.25 11 10 -.25 15 0 -.25 11
 3 16 10 -.25 15 8.3 -.25 11 8.3 -.25 .5525
@@ -28,9 +28,9 @@
 4 16 -7.3 -.25 11 0 -.25 11 10 -.25 15 -10 -.25 15
 
 0 BFC NOCLIP
-1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire.dat
-1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-outer-box.dat
+1 16 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-flames-type1.dat
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-flames-outer-box-type1.dat
 
-1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-inner-box.dat
-1 4 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-inner-border.dat
-1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-outer-border.dat
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-inner-box-type1.dat
+1 4 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-inner-border-type1.dat
+1 0 0 -.25 0 1 0 0 0 1 0 0 0 1 logo-fire-shield-outer-border-type1.dat

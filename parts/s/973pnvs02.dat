@@ -1,0 +1,12 @@
+0 ~Minifig Torso with Metallic Silver Samurai Armour and Red Collar Pattern - Collar
+0 Name: s\973pnvs02.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+3 16 -3.468 2.6 -10 -4.958 2.6 -10 -4.946 2.676 -10
+3 16 4.946 2.676 -10 .579 4.351 -10 1.64 4.994 -10
+4 16 0 6.144 -10 1.103 5.37 -10 -3.468 2.6 -10 -4.946 2.676 -10
+4 16 4.946 2.676 -10 4.958 2.6 -10 3.468 2.6 -10 .579 4.351 -10

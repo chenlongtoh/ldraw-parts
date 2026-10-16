@@ -1,0 +1,22 @@
+0 Minifig Torso with Metallic Silver Samurai Armour and Red Collar Pattern
+0 Name: 973pnv.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Torso
+0 !KEYWORDS Armor, Bricklink 973px12, feudal, Japan, Ninja, Samurai Kata
+0 !KEYWORDS Set 4805, Set 6083, Set 6088, set 6089, Set 6093
+
+0 // Basepart
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973s01.dat
+4 16 19 29 10 19 32 10 -19 32 10 -19 29 10
+4 16 -14.345 2 10 14.345 2 10 19 29 10 -19 29 10
+4 16 -14.345 2 10 -12 0 10 12 0 10 14.345 2 10
+1 0 0 -4 0 4.243 0 -4.243 0 -8 0 -4.243 0 -4.243 1-4cyli.dat
+
+0 // Pattern
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\973pnvs01.dat
+1 4 0 0 0 1 0 0 0 1 0 0 0 1 s\973pnvs02.dat

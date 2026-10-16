@@ -1,0 +1,17 @@
+0 Minifig Torso with Arms and Hands with Blacktron I 2-Sided with Metallic Gold Logo Pattern
+0 Name: 76382pzb.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Upper
+0 !KEYWORDS Bricklink 973pb6213, LEGO Minifigure: A Visual History, promotional
+0 !KEYWORDS Rebrickable 973c03h03pr0108, Set 5010069, Space
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pzb.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 16 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 16 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat
