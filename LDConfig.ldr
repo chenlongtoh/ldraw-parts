@@ -741,4 +741,4 @@
 0 !AVATAR CATEGORY "Znap" DESCRIPTION "Znap" PART 1 0 0  0 1 0  0 0 1 "32210.dat" 
 
 0 // Colours added by ldconfig-overrides.ldr (ldraw-library-sync)
-0 !COLOUR Trans_Black                                   CODE    10040   VALUE #000000   EDGE #333333   ALPHA 128
+0 !COLOUR Trans_Black                                   CODE    100040   VALUE #000000   EDGE #333333   ALPHA 128
