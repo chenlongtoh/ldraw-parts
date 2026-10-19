@@ -33,9 +33,10 @@
 3 16 36 73.5 -6 0 73.5 -6 36 112 -6
 
 0 BFC NOCLIP
-1 0 0 60 -6 1 0 0 0 0 -1 0 1 0 logo-fire-shield-inner-box-type2.dat
-1 0 0 60 -6 1 0 0 0 0 -1 0 1 0 logo-fire-shield-flames-outer-box-type2.dat
-1 16 0 60 -6 1 0 0 0 0 -1 0 1 0 logo-fire-shield-flames-type2.dat
+1 16 0 59.4005 -6 .90009 0 0 0 0 -.90009 0 1 0 logo-fire-1994-flames.dat
+1 0 0 59.4005 -6 .90009 0 0 0 0 -.90009 0 1 0 logo-fire-1994-flames-outer-box.dat
+1 0 0 59.4005 -6 .90009 0 0 0 0 -.90009 0 1 0 logo-fire-1994-shield-inner-box.dat
+
 4 15 -13 48 -6 0 48 -6 0 44.5 -6 -36 44.5 -6
 3 15 -36 44.5 -6 -16 48 -6 -13 48 -6
 3 15 -36 44.5 -6 -36 48 -6 -16 48 -6

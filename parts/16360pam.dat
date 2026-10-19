@@ -1,0 +1,17 @@
+0 Minifig Torso with Dual Mould Arms and Hands with Dress with Triangle Panel with White and Silver Floral Motif, Sand Green Folds and Belt Pattern
+0 Name: 16360pam.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Upper
+0 !KEYWORDS Downton Abbey, Rebrickable 973g27c02h11pr0001, Robe, Set 21373
+0 !KEYWORDS Violet Crawley
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pam.dat
+1 15 -15.552 9 0 .985 -.17 0 .17 .985 0 0 0 1 16000p02.dat
+1 15 15.552 9 0 .985 .17 0 -.17 .985 0 0 0 1 16001p02.dat
+1 330 -23.6904 26.774 -9.8982 .985 -.1202 .1202 .17 .6964 -.6964 0 .707 .707 3820.dat
+1 330 23.6904 26.774 -9.8982 .985 .1202 -.1202 -.17 .6964 -.6964 0 .707 .707 3820.dat

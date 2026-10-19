@@ -10,5 +10,7 @@
 0 !KEYWORDS Bricklink 2513pb06, Fire 1994, Fire Station, Flame fighters
 0 !KEYWORDS Set 6571
 
+0 !HISTORY 2026-10-15 [Holly-Wood] Rounded to 5 digits
+
 1 16 0 0 0 1 0 0 0 1 0 0 0 1 2513.dat
-1 16 0 10 -30 1 0 0 0 0.894427 -0.447214 0 0.447214 0.894427 168135i.dat
+1 16 0 10 -30 1 0 0 0 .89443 -.44721 0 .44721 .89443 168135i.dat

@@ -1,0 +1,17 @@
+0 Wheel 13.4 x 24 with Rubber Black Integral Smooth Racing Tyre with White "LIGHTYEAR" Pattern
+0 Name: 105162p05.dat
+0 Author: Massimo Maso [Sirio]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Wheel
+0 !KEYWORDS Bricklink 105162pb005, Brickowl 874157, Brickset 115848, Cars
+0 !KEYWORDS Lightning McQueen, Rebrickable 105162pr0004, Set 77255, Slick
+0 !KEYWORDS Speed Champions
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\105162s01.dat
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 s\105162s02.dat
+1 256 0 0 0 1 0 0 0 1 0 0 0 1 s\105162p05s01.dat
+1 256 0 0 0 -1 0 0 0 -1 0 0 0 1 s\105162p05s01.dat
