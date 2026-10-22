@@ -1,0 +1,56 @@
+0 Minifig Armour Breastplate Imperial Armada
+0 Name: 71151.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Neckwear
+0 !KEYWORDS Bricklink x190, Brickowl 531714, Captain Valiant, Castle
+0 !KEYWORDS Cedric the Bull, chrome, conquistador, John of Mayne
+0 !KEYWORDS Knights' Kingdom, Pirates, set 4817, set 6204, set 6280, set 6281
+0 !KEYWORDS set 6291, Spaniard, The Admiral
+
+0 !HISTORY 2013-08-14 {LEGO Digital Designer} Original part shape
+0 !HISTORY 2026-10-21 [KnightOfTarenta] File preparation for LDraw Parts Tracker
+
+0 // Mirrored Halves
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\71151s01.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 1 s\71151s01.dat
+
+0 // Neck Holder
+0 BFC INVERTNEXT
+1 16 0 0 0 0 0 6 0 -4 0 6 0 0 4-4cyli.dat
+1 16 0 -4 0 0 0 6 0 1 0 6 0 0 4-4ndis.dat
+1 16 0 0 0 0 0 6 0 -1 0 6 0 0 4-4ndis.dat
+1 16 0 -4 0 0 0 6 0 1 0 6 0 0 4-4edge.dat
+1 16 0 0 0 0 0 6 0 -1 0 6 0 0 4-4edge.dat
+
+0 // Flat Mid Areas
+3 16 10.077 -4 8.184 10.344 -2.921 9.337 -10.344 -2.921 9.337
+3 16 -10.344 -2.921 9.337 -10.077 -4 8.184 10.077 -4 8.184
+3 16 -10.077 -4 8.184 0 -4 6 10.077 -4 8.184
+3 16 -11.035 0 9.607 11.035 0 9.607 0 0 6
+3 16 0 30.706 -10 -12.302 0 -10 12.302 0 -10
+3 16 12.302 0 -10 -12.302 0 -10 0 0 -6
+4 16 10.344 -2.921 9.337 11.035 0 9.607 -11.035 0 9.607 -10.344 -2.921 9.337
+
+0 // Edge Lines
+2 24 0 26.687 -15.106 0 29.65 -13.058
+2 24 0 15.927 -18.134 0 22.496 -16.768
+2 24 0 22.496 -16.768 0 26.687 -15.106
+2 24 -12.302 0 -10 12.302 0 -10
+2 24 0 -3.654 -12.238 0 -.42 -15.359
+2 24 0 9.835 -18.146 0 15.927 -18.134
+2 24 -11.035 0 9.607 11.035 0 9.607
+2 24 0 -.42 -15.359 0 4.485 -17.203
+2 24 0 4.485 -17.203 0 9.835 -18.146
+
+0 // Conditional Lines
+5 24 0 29.65 -13.058 0 30.448 -11.644 2.489 29.299 -11.975 -2.489 29.299 -11.975
+5 24 10.344 -2.921 9.337 -10.344 -2.921 9.337 11.035 0 9.607 10.077 -4 8.184
+5 24 -10.077 -4 8.184 10.077 -4 8.184 -10.344 -2.921 9.337 0 -4 6
+5 24 -10.344 -2.921 9.337 10.077 -4 8.184 10.344 -2.921 9.337 -10.077 -4 8.184
+5 24 0 30.448 -11.644 0 30.706 -10 2.43 30.18 -10 -2.43 30.18 -10
+5 24 0 -4 -9.793 0 -3.654 -12.238 2.62 -3.677 -10.767 -2.62 -3.677 -10.767

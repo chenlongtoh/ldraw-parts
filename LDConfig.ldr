@@ -742,3 +742,4 @@
 
 0 // Colours added by ldconfig-overrides.ldr (ldraw-library-sync)
 0 !COLOUR Trans_Black                                   CODE    100040   VALUE #000000   EDGE #333333   ALPHA 128
+0 !COLOUR Trans_Light_Orange                                    CODE 605   VALUE #FF9F2C   EDGE #A45C28   ALPHA 128
