@@ -1,0 +1,19 @@
+0 Minifig Torso with Arms and Hands with Metallic Silver Samurai Armour and White Collar Pattern
+0 Name: 76382pnu.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 !CATEGORY Minifig Upper
+0 !KEYWORDS Armor, Bricklink 973px16, BrickOwl 994518, Brickset 4114218, feudal
+0 !KEYWORDS Japan, Mini Heroes Collection, Mini Upper Part No 289, Ninja
+0 !KEYWORDS Old Samurai, Rebrickable 973c28h01pr0016, Samurai Dojo, Set 3345
+0 !KEYWORDS Set 6093
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 973pnu.dat
+1 16 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+1 16 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+1 14 -23.69 26.774 -9.898 0.985 -0.12 0.12 0.17 0.696 -0.696 0 0.707 0.707 3820.dat
+1 14 23.69 26.774 -9.898 0.985 0.12 -0.12 -0.17 0.696 -0.696 0 0.707 0.707 3820.dat
