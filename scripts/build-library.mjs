@@ -22,8 +22,8 @@
  * same id. Studio files no LDraw file claims also get their plain key, so a plain lookup
  * still finds them. A primitive that only exists in high detail (p/48/, then p/8/) is
  * also reachable by its plain name, the way Studio resolves it. studio-map.json (the
- * Studio part mapping table) and studio-colors.json (Studio → LDraw colour remaps)
- * publish as-is.
+ * Studio part mapping table), studio-colors.json (Studio → LDraw colour remaps) and
+ * moved-parts.json (renumbered LDraw parts) publish as-is.
  */
 import { createHash } from 'node:crypto'
 import { execSync } from 'node:child_process'
@@ -39,7 +39,7 @@ const CUSTOM_FOLDER = 'custom_parts'
 const STUDIO_FOLDER = 'studio'
 const ALL_FOLDERS = [...FOLDERS, CUSTOM_FOLDER, STUDIO_FOLDER]
 const FILE_RE = /\.(?:dat|ldr|mpd|png)$/i
-const ROOT_DATA_FILES = new Set(['studio-map.json', 'studio-colors.json'])
+const ROOT_DATA_FILES = new Set(['studio-map.json', 'studio-colors.json', 'moved-parts.json'])
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const args = process.argv.slice(2)
